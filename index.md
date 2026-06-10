@@ -101,8 +101,8 @@ permalink: /
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-7232/"><span>Frontend Developer <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/"><span>Frontend Developer (React / Next.js) <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/"><span>Frontend Developer (Vue.js / Quasar) <span class="co">Stealth Project</span></span></a></li>
-<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
+<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/"><span>Fullstack PHP + Vue.js Developer <span class="co">Magnit</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/growth-marketing-manager-7820/"><span>Growth Marketing Manager <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/"><span>Head of Promoters <span class="co">Hattori</span></span><span class="pay">$400–$2,000</span></a></li>

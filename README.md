@@ -101,8 +101,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Frontend Developer](https://ceosvex.github.io/web3vacancy-jobs/jobs/frontend-developer-7232/) | Stealth Project | — |
 | [Frontend Developer (React / Next.js)](https://ceosvex.github.io/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/) | Stealth Project | — |
 | [Frontend Developer (Vue.js / Quasar)](https://ceosvex.github.io/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/) | Stealth Project | — |
-| [Full Stack Engineer, Blockchain](https://ceosvex.github.io/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) | Fireblocks | $63,000–$83,000 |
 | [Full Stack Engineer, Blockchain](https://ceosvex.github.io/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) | Fireblocks | $82,000–$138,000 |
+| [Full Stack Engineer, Blockchain](https://ceosvex.github.io/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) | Fireblocks | $63,000–$83,000 |
 | [Fullstack PHP + Vue.js Developer](https://ceosvex.github.io/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/) | Magnit | — |
 | [Growth Marketing Manager](https://ceosvex.github.io/web3vacancy-jobs/jobs/growth-marketing-manager-7820/) | Stealth Project | — |
 | [Head of Promoters](https://ceosvex.github.io/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/) | Hattori | $400–$2,000 |

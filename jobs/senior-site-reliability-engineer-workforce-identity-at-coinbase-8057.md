@@ -4,27 +4,13 @@ company: "Coinbase"
 location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
-date: "2026-06-09T17:30:28.275216+00:00"
+date: "Tue Jun 09 2026 17:30:28 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057/"
 description: "Senior Site Reliability Engineer, Workforce Identity at Coinbase. Join Coinbase as a Senior Site Reliability Engineer focusing on building and scaling the…"
 apply_url: "https://web3vacancy.com/job/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057"
 layout: job
 ---
 
-# Senior Site Reliability Engineer, Workforce Identity at Coinbase
+<p>Join Coinbase as a Senior Site Reliability Engineer focusing on building and scaling the identity and access management platform. Work in a remote-first environment with a competitive salary range of $112K-$188K.</p>
 
-**Company:** Coinbase  
-**Location:** Remote  
-**Salary:** $112,000–$188,000  
-**Type:** full-time
-
-Join Coinbase as a Senior Site Reliability Engineer focusing on building and scaling the identity and access management platform. Work in a remote-first environment with a competitive salary range of $112K-$188K.
-
-**Skills:** `Site Reliability Engineering` · `Identity and Access Management` · `DevOps` · `CI/CD` · `AWS` · `GCP` · `Azure` · `Terraform` · `Go` · `Python` · `Ruby` · `Java`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Site Reliability Engineering</span><span class="s">Identity and Access Management</span><span class="s">DevOps</span><span class="s">CI/CD</span><span class="s">AWS</span><span class="s">GCP</span><span class="s">Azure</span><span class="s">Terraform</span><span class="s">Go</span><span class="s">Python</span><span class="s">Ruby</span><span class="s">Java</span></div>

@@ -4,27 +4,13 @@ company: "Stealth Project"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-01T08:34:46.744769+00:00"
+date: "Mon Jun 01 2026 08:34:46 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-developer-c-blockchain-7266/"
 description: "Senior Developer C (Blockchain) at Stealth Project. Looking for a Senior C Developer with blockchain experience. Remote work available for candidates from…"
 apply_url: "https://web3vacancy.com/job/senior-developer-c-blockchain-7266"
 layout: job
 ---
 
-# Senior Developer C# (Blockchain) at Stealth Project
+<p>Looking for a Senior C Developer with blockchain experience. Remote work available for candidates from Russia, Belarus, Georgia, Kazakhstan, Armenia, and others.</p>
 
-**Company:** Stealth Project  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Looking for a Senior C Developer with blockchain experience. Remote work available for candidates from Russia, Belarus, Georgia, Kazakhstan, Armenia, and others.
-
-**Skills:** `C#` · `.NET` · `ASP .NET Core` · `RESTful API` · `PostgreSQL` · `MongoDB` · `Docker` · `blockchain technologies` · `cryptocurrency addresses` · `smart contracts` · `JSON-RPC`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-developer-c-blockchain-7266)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">C#</span><span class="s">.NET</span><span class="s">ASP .NET Core</span><span class="s">RESTful API</span><span class="s">PostgreSQL</span><span class="s">MongoDB</span><span class="s">Docker</span><span class="s">blockchain technologies</span><span class="s">cryptocurrency addresses</span><span class="s">smart contracts</span><span class="s">JSON-RPC</span></div>

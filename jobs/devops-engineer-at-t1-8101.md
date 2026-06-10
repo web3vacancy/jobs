@@ -4,27 +4,13 @@ company: "T1"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-10T07:50:10.730275+00:00"
+date: "Wed Jun 10 2026 07:50:10 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/devops-engineer-at-t1-8101/"
 description: "DevOps Engineer at T1. Join T1 as a DevOps Engineer in Nizhny Novgorod to manage CI/CD streams and ensure pipeline functionality."
 apply_url: "https://web3vacancy.com/job/devops-engineer-at-t1-8101"
 layout: job
 ---
 
-# DevOps Engineer at T1
+<p>Join T1 as a DevOps Engineer in Nizhny Novgorod to manage CI/CD streams and ensure pipeline functionality.</p>
 
-**Company:** T1  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join T1 as a DevOps Engineer in Nizhny Novgorod to manage CI/CD streams and ensure pipeline functionality.
-
-**Skills:** `Jenkins` · `Ansible` · `Linux` · `Kubernetes` · `Docker` · `Postgresql` · `KAFKA` · `Git` · `Groove` · `bash` · `python`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/devops-engineer-at-t1-8101)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Jenkins</span><span class="s">Ansible</span><span class="s">Linux</span><span class="s">Kubernetes</span><span class="s">Docker</span><span class="s">Postgresql</span><span class="s">KAFKA</span><span class="s">Git</span><span class="s">Groove</span><span class="s">bash</span><span class="s">python</span></div>

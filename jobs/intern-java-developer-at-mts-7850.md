@@ -4,27 +4,13 @@ company: "MTS"
 location: "Hybrid"
 salary: "Competitive"
 employment_type: "internship"
-date: "2026-06-08T07:57:19.562219+00:00"
+date: "Mon Jun 08 2026 07:57:19 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/intern-java-developer-at-mts-7850/"
 description: "Intern Java Developer at MTS. Intern Java Developer position at MTS, focusing on AI platform development."
 apply_url: "https://web3vacancy.com/job/intern-java-developer-at-mts-7850"
 layout: job
 ---
 
-# Intern Java Developer at MTS
+<p>Intern Java Developer position at MTS, focusing on AI platform development.</p>
 
-**Company:** MTS  
-**Location:** Hybrid  
-**Salary:** Competitive  
-**Type:** internship
-
-Intern Java Developer position at MTS, focusing on AI platform development.
-
-**Skills:** `Java 17+` · `Spring` · `REST API` · `Git` · `Temporal.io` · `k8s`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/intern-java-developer-at-mts-7850)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Java 17+</span><span class="s">Spring</span><span class="s">REST API</span><span class="s">Git</span><span class="s">Temporal.io</span><span class="s">k8s</span></div>

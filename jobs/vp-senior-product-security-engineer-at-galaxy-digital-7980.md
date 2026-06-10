@@ -4,27 +4,13 @@ company: "Galaxy Digital"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-09T08:37:22.832615+00:00"
+date: "Tue Jun 09 2026 08:37:22 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/"
 description: "VP, Senior Product Security Engineer at Galaxy Digital. Galaxy Digital is seeking a Senior Product Security Engineer to secure microservices and cloud…"
 apply_url: "https://web3vacancy.com/job/vp-senior-product-security-engineer-at-galaxy-digital-7980"
 layout: job
 ---
 
-# VP, Senior Product Security Engineer at Galaxy Digital
+<p>Galaxy Digital is seeking a Senior Product Security Engineer to secure microservices and cloud applications, working closely with engineering and product teams to deliver secure software solutions.</p>
 
-**Company:** Galaxy Digital  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Galaxy Digital is seeking a Senior Product Security Engineer to secure microservices and cloud applications, working closely with engineering and product teams to deliver secure software solutions.
-
-**Skills:** `cybersecurity` · `cloud security` · `application security` · `software development` · `threat modeling` · `risk assessment` · `programming`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/vp-senior-product-security-engineer-at-galaxy-digital-7980)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">cybersecurity</span><span class="s">cloud security</span><span class="s">application security</span><span class="s">software development</span><span class="s">threat modeling</span><span class="s">risk assessment</span><span class="s">programming</span></div>

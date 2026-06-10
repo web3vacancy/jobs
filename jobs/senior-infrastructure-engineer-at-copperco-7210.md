@@ -4,27 +4,13 @@ company: "Copperco"
 location: "Hybrid"
 salary: "$105,000–$175,000"
 employment_type: "full-time"
-date: "2026-05-30T17:51:03.168728+00:00"
+date: "Sat May 30 2026 17:51:03 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-infrastructure-engineer-at-copperco-7210/"
 description: "Senior Infrastructure Engineer at Copperco. Join Copperco as a Senior Infrastructure Engineer to lead cloud architecture initiatives, mentor junior…"
 apply_url: "https://web3vacancy.com/job/senior-infrastructure-engineer-at-copperco-7210"
 layout: job
 ---
 
-# Senior Infrastructure Engineer at Copperco
+<p>Join Copperco as a Senior Infrastructure Engineer to lead cloud architecture initiatives, mentor junior engineers, and manage key infrastructure components in a hybrid working environment.</p>
 
-**Company:** Copperco  
-**Location:** Hybrid  
-**Salary:** $105,000–$175,000  
-**Type:** full-time
-
-Join Copperco as a Senior Infrastructure Engineer to lead cloud architecture initiatives, mentor junior engineers, and manage key infrastructure components in a hybrid working environment.
-
-**Skills:** `Python` · `IaC` · `AWS` · `MPC technology` · `Jamf Pro` · `Terraform` · `Azure` · `Cloud architecture` · `Endpoint Management` · `Systems Integration` · `Bash` · `Secure Environments`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-infrastructure-engineer-at-copperco-7210)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Python</span><span class="s">IaC</span><span class="s">AWS</span><span class="s">MPC technology</span><span class="s">Jamf Pro</span><span class="s">Terraform</span><span class="s">Azure</span><span class="s">Cloud architecture</span><span class="s">Endpoint Management</span><span class="s">Systems Integration</span><span class="s">Bash</span><span class="s">Secure Environments</span></div>

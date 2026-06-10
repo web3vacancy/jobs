@@ -4,27 +4,13 @@ company: "HumanSignal"
 location: "Remote"
 salary: "$115,000–$195,500"
 employment_type: "full-time"
-date: "2026-06-06T10:26:44.073718+00:00"
+date: "Sat Jun 06 2026 10:26:44 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-full-stack-engineer-at-humansignal-7789/"
 description: "Senior Full Stack Engineer at HumanSignal. Join HumanSignal as a Senior Full Stack Engineer to build end-to-end features across React/TypeScript and…"
 apply_url: "https://web3vacancy.com/job/senior-full-stack-engineer-at-humansignal-7789"
 layout: job
 ---
 
-# Senior Full Stack Engineer at HumanSignal
+<p>Join HumanSignal as a Senior Full Stack Engineer to build end-to-end features across React/TypeScript and Python/Django, shaping APIs and data models. Work remotely and earn between $115,000 and $195,500 USD.</p>
 
-**Company:** HumanSignal  
-**Location:** Remote  
-**Salary:** $115,000–$195,500  
-**Type:** full-time
-
-Join HumanSignal as a Senior Full Stack Engineer to build end-to-end features across React/TypeScript and Python/Django, shaping APIs and data models. Work remotely and earn between $115,000 and $195,500 USD.
-
-**Skills:** `Python` · `Django` · `React` · `TypeScript` · `SQL` · `AWS` · `Kubernetes` · `Postgres` · `Redis` · `OpenAI API` · `Spark` · `BigQuery`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-full-stack-engineer-at-humansignal-7789)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Python</span><span class="s">Django</span><span class="s">React</span><span class="s">TypeScript</span><span class="s">SQL</span><span class="s">AWS</span><span class="s">Kubernetes</span><span class="s">Postgres</span><span class="s">Redis</span><span class="s">OpenAI API</span><span class="s">Spark</span><span class="s">BigQuery</span></div>

@@ -4,27 +4,11 @@ company: "Aptos"
 location: "Remote"
 salary: "$120,000–$180,000"
 employment_type: "full-time"
-date: "2026-06-03T19:10:07.334572+00:00"
+date: "Wed Jun 03 2026 19:10:07 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/security-analyst-aptos-at-aptos-7548/"
 description: "Security Analyst - Aptos at Aptos. Aptos is seeking a Security Analyst to enhance security operations, focusing on phishing response, bug bounty…"
 apply_url: "https://web3vacancy.com/job/security-analyst-aptos-at-aptos-7548"
 layout: job
 ---
 
-# Security Analyst - Aptos at Aptos
-
-**Company:** Aptos  
-**Location:** Remote  
-**Salary:** $120,000–$180,000  
-**Type:** full-time
-
-Aptos is seeking a Security Analyst to enhance security operations, focusing on phishing response, bug bounty management, and access governance in a remote-first environment.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/security-analyst-aptos-at-aptos-7548)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Aptos is seeking a Security Analyst to enhance security operations, focusing on phishing response, bug bounty management, and access governance in a remote-first environment.</p>

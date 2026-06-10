@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-267 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+270 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 35
 
@@ -44,10 +44,11 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Sr Product Manager, Onchain](https://web3vacancy.github.io/jobs/sr-product-manager-onchain-at-kraken-7547/) | Kraken | — |
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 
-### Infrastructure · 63
+### Infrastructure · 64
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
+| [Affiliate Relationship Manager - MENA](https://web3vacancy.github.io/jobs/affiliate-relationship-manager-mena-at-binance-8184/) | Binance | — |
 | [AI Creative - Copywriter](https://web3vacancy.github.io/jobs/ai-creative-copywriter-at-gomining-7092/) | GoMining | $57,500–$97,750 |
 | [Application Architect, Java](https://web3vacancy.github.io/jobs/application-architect-java-at-okx-8033/) | OKX | — |
 | [ASA / ASO Manager (App Store Growth)](https://web3vacancy.github.io/jobs/asa-aso-manager-app-store-growth-at-gomining-7271/) | GoMining | $57,500–$97,750 |
@@ -59,6 +60,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Blockchain Investigator](https://web3vacancy.github.io/jobs/blockchain-investigator-at-anchain-ai-7161/) | AnChain.AI | — |
 | [Business Developer](https://web3vacancy.github.io/jobs/business-developer-at-mirai-7867/) | MIRAI | — |
 | [Business Development Interns Junior BD](https://web3vacancy.github.io/jobs/business-development-interns-junior-bd-at-bitbase-global-inc-7155/) | Bitbase Global Inc | $12,000–$24,000 |
+| [Client Engagement API Specialist](https://web3vacancy.github.io/jobs/client-engagement-api-specialist-at-kraken-8181/) | Kraken | — |
 | [Crypto Media Buyer](https://web3vacancy.github.io/jobs/crypto-media-buyer-7556/) | Stealth Project | From $2,000 |
 | [DevOps / Site Reliability Engineer](https://web3vacancy.github.io/jobs/devops-site-reliability-engineer-at-okx-8112/) | OKX | — |
 | [Director of Site Reliability Engineering](https://web3vacancy.github.io/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/) | Stellar Development Foundation | $210,000–$310,000 |
@@ -83,7 +85,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Growth Hacker (Exchange)](https://web3vacancy.github.io/jobs/product-growth-hacker-exchange-at-crypto-com-7858/) | Crypto.com | — |
 | [Quality Assurance Engineer](https://web3vacancy.github.io/jobs/quality-assurance-engineer-at-brave-8079/) | Brave | $90,000–$130,000 |
 | [Quant Researcher](https://web3vacancy.github.io/jobs/quant-researcher-at-crypto-com-7749/) | Crypto.com | $100,000–$230,000 |
-| [Revenue Operations Lead](https://web3vacancy.github.io/jobs/revenue-operations-lead-at-alchemy-7056/) | Alchemy | — |
 | [Security Analyst - Aptos](https://web3vacancy.github.io/jobs/security-analyst-aptos-at-aptos-7548/) | Aptos | $120,000–$180,000 |
 | [Senior Developer C# (Blockchain)](https://web3vacancy.github.io/jobs/senior-developer-c-blockchain-7266/) | Stealth Project | — |
 | [Senior Developer Relations, Canton](https://web3vacancy.github.io/jobs/senior-developer-relations-canton-at-openzeppelin-7750/) | OpenZeppelin | — |
@@ -97,13 +98,13 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Red Team Operator](https://web3vacancy.github.io/jobs/senior-red-team-operator-at-figment-8065/) | Figment | $165,000–$180,000 |
 | [Senior Software Engineer - Coinbase](https://web3vacancy.github.io/jobs/senior-software-engineer-coinbase-at-coinbase-8058/) | Coinbase | — |
 | [Senior Software Engineer, C++](https://web3vacancy.github.io/jobs/senior-software-engineer-c-at-stellar-development-foundation-7427/) | Stellar Development Foundation | $180,000–$290,000 |
+| [Senior Software Engineer, Core Infra - Compute Platform](https://web3vacancy.github.io/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/) | Coinbase | $186,065–$218,900 |
 | [Senior Technical Writer](https://web3vacancy.github.io/jobs/senior-technical-writer-at-quicknode-7217/) | QuickNode | — |
 | [Senior Web Developer](https://web3vacancy.github.io/jobs/senior-web-developer-at-coinmarketcap-8010/) | CoinMarketCap | $97,750–$149,500 |
 | [SERM/ORM Specialist](https://web3vacancy.github.io/jobs/serm-orm-specialist-at-pgon-7096/) | PGON | — |
 | [SOC Engineer (Incident Response)](https://web3vacancy.github.io/jobs/soc-engineer-incident-response-at-binance-7297/) | Binance | — |
 | [Social Media Manager - Base](https://web3vacancy.github.io/jobs/social-media-manager-base-at-base-8040/) | Base | — |
 | [Software Engineer](https://web3vacancy.github.io/jobs/software-engineer-at-arkham-7453/) | Arkham | — |
-| [Software Engineer - Frontend - Payments](https://web3vacancy.github.io/jobs/software-engineer-frontend-payments-at-kraken-7055/) | Kraken | — |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7836/) | Fireblocks | — |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7936/) | Fireblocks | $60,000–$100,000 |
@@ -112,7 +113,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
 | [Web3 Community Specialist, CN 华语社区运营专员](https://web3vacancy.github.io/jobs/web3-community-specialist-cn-at-mantle-7137/) | Mantle | — |
 
-### AI / ML · 29
+### AI / ML · 31
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -121,6 +122,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7609/) | CoinMarketCap | — |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
+| [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7554/) | Fireblocks | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7421/) | Fireblocks | $75,000–$125,000 |
@@ -133,6 +135,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [PR & Marketing Manager](https://web3vacancy.github.io/jobs/pr-and-marketing-manager-7615/) | Stealth Project | — |
 | [Principal/Senior Mobile Engineer, CEX](https://web3vacancy.github.io/jobs/principal-senior-mobile-engineer-cex-at-okx-8157/) | OKX | — |
 | [Project Implementation: Development, Content Creation, and Token Launch](https://web3vacancy.github.io/jobs/project-implementation-development-content-creation-and-token-launch-7781/) | Stealth Project | — |
+| [Protocol Director](https://web3vacancy.github.io/jobs/protocol-director-at-galaxy-digital-8179/) | Galaxy Digital | — |
 | [Senior AI / Tokenomics Analyst](https://web3vacancy.github.io/jobs/senior-ai-tokenomics-analyst-at-8blocks-io-7499/) | 8blocks.io | — |
 | [Senior AI / Tokenomics Analyst](https://web3vacancy.github.io/jobs/senior-ai-tokenomics-analyst-at-8blocks-io-7411/) | 8blocks.io | — |
 | [Senior Backend Developer](https://web3vacancy.github.io/jobs/senior-backend-developer-at-galaxy-digital-8118/) | Galaxy Digital | — |
@@ -193,8 +196,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Head of Sales](https://web3vacancy.github.io/jobs/head-of-sales-at-icon-finance-7320/) | ICON Finance | $2,000–$3,000 |
 | [Head of Technical Customer Experience](https://web3vacancy.github.io/jobs/head-of-technical-customer-experience-at-polymarket-8068/) | Polymarket | — |
 | [Institutional Business Development Manager - Wintermute](https://web3vacancy.github.io/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/) | Wintermute | — |
-| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-polymarket-7746/) | Polymarket | — |
+| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
 | [Institutional Sales Associate - Blockchain](https://web3vacancy.github.io/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/) | Blockchain | — |
 | [International Accountant / Finance Operations Specialist](https://web3vacancy.github.io/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/) | EMCD | — |
 | [Legal Counsel - Data Protection](https://web3vacancy.github.io/jobs/legal-counsel-data-protection-at-bitpanda-7293/) | Bitpanda | — |
@@ -261,8 +264,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 3

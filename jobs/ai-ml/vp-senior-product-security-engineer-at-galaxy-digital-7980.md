@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T08:37:22.832615+00:00"
-permalink: "/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/"
+permalink: "/vp-senior-product-security-engineer-at-galaxy-digital-7980/"
 description: "VP, Senior Product Security Engineer at Galaxy Digital. Galaxy Digital is seeking a Senior Product Security Engineer to secure microservices and cloud…"
 apply_url: "https://web3vacancy.com/job/vp-senior-product-security-engineer-at-galaxy-digital-7980"
 layout: job

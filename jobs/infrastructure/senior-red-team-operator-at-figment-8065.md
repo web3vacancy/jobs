@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$165,000–$180,000"
 employment_type: "full-time"
 date: "2026-06-09T20:49:19.028567+00:00"
-permalink: "/jobs/senior-red-team-operator-at-figment-8065/"
+permalink: "/senior-red-team-operator-at-figment-8065/"
 description: "Senior Red Team Operator at Figment. Join Figment as a Senior Red Team Operator to enhance security through adversary emulation and vulnerability…"
 apply_url: "https://web3vacancy.com/job/senior-red-team-operator-at-figment-8065"
 layout: job

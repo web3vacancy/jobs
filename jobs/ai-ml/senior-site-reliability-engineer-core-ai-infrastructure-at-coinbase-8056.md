@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
 date: "2026-06-09T17:30:06.850221+00:00"
-permalink: "/jobs/senior-site-reliability-engineer-core-ai-infrastructure-at-coinbase-8056/"
+permalink: "/senior-site-reliability-engineer-core-ai-infrastructure-at-coinbase-8056/"
 description: "Senior Site Reliability Engineer, Core AI Infrastructure at Coinbase. Join Coinbase as a Senior Site Reliability Engineer to drive AI transformation and…"
 apply_url: "https://web3vacancy.com/job/senior-site-reliability-engineer-core-ai-infrastructure-at-coinbase-8056"
 layout: job

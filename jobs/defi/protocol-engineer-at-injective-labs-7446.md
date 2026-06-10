@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T00:54:12.878125+00:00"
-permalink: "/jobs/protocol-engineer-at-injective-labs-7446/"
+permalink: "/protocol-engineer-at-injective-labs-7446/"
 description: "Protocol Engineer at Injective Labs. Join Injective Labs as a Protocol Engineer to work on cutting-edge blockchain technology in DeFi. Collaborate with a…"
 apply_url: "https://web3vacancy.com/job/protocol-engineer-at-injective-labs-7446"
 layout: job

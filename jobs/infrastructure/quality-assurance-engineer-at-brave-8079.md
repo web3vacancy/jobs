@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$90,000–$130,000"
 employment_type: "full-time"
 date: "2026-06-10T02:56:40.785717+00:00"
-permalink: "/jobs/quality-assurance-engineer-at-brave-8079/"
+permalink: "/quality-assurance-engineer-at-brave-8079/"
 description: "Quality Assurance Engineer at Brave. Brave is seeking a Quality Assurance Engineer to enhance the quality of its browser releases. Join a mission-driven…"
 apply_url: "https://web3vacancy.com/job/quality-assurance-engineer-at-brave-8079"
 layout: job

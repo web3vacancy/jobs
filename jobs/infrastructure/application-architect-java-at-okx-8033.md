@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T14:41:02.466641+00:00"
-permalink: "/jobs/application-architect-java-at-okx-8033/"
+permalink: "/application-architect-java-at-okx-8033/"
 description: "Application Architect, Java at OKX. Join OKX as an Application Architect to shape the future of crypto with innovative architecture and ensure service…"
 apply_url: "https://web3vacancy.com/job/application-architect-java-at-okx-8033"
 layout: job

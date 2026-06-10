@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-05T19:32:30.837786+00:00"
-permalink: "/jobs/brokerage-accounting-manager-japan-securities-entity-at-alpaca-7726/"
+permalink: "/brokerage-accounting-manager-japan-securities-entity-at-alpaca-7726/"
 description: "Brokerage Accounting Manager (Japan Securities Entity) at Alpaca. Alpaca is seeking a Brokerage Accounting Manager to oversee accounting activities for…"
 apply_url: "https://web3vacancy.com/job/brokerage-accounting-manager-japan-securities-entity-at-alpaca-7726"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Up to $2,260"
 employment_type: "full-time"
 date: "2026-06-07T07:21:42.713781+00:00"
-permalink: "/jobs/middle-frontend-developer-react-next-js-at-7814/"
+permalink: "/middle-frontend-developer-react-next-js-at-7814/"
 description: "Middle Frontend Developer (React/Next.js) at НАО «Красная Поляна». We are looking for a Middle Frontend Developer with strong skills in React and Next.js.…"
 apply_url: "https://web3vacancy.com/job/middle-frontend-developer-react-next-js-at-7814"
 layout: job

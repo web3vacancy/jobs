@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T08:37:43.352060+00:00"
-permalink: "/jobs/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981/"
+permalink: "/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981/"
 description: "Director, Senior Developer Experience (DevEx) Engineer at Galaxy Digital. Galaxy Digital is seeking a Senior Developer Experience Engineer to enhance…"
 apply_url: "https://web3vacancy.com/job/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981"
 layout: job

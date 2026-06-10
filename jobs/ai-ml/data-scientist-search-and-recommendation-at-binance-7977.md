@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T08:36:05.712673+00:00"
-permalink: "/jobs/data-scientist-search-and-recommendation-at-binance-7977/"
+permalink: "/data-scientist-search-and-recommendation-at-binance-7977/"
 description: "Data Scientist (Search & Recommendation) at Binance. Join Binance as a Data Scientist to design and manage search recommendation services, leveraging…"
 apply_url: "https://web3vacancy.com/job/data-scientist-search-and-recommendation-at-binance-7977"
 layout: job

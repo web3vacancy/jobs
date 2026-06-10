@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$98,000–$162,000"
 employment_type: "full-time"
 date: "2026-05-30T17:49:24.920552+00:00"
-permalink: "/jobs/senior-frontend-engineer-internal-tools-at-alpaca-7203/"
+permalink: "/senior-frontend-engineer-internal-tools-at-alpaca-7203/"
 description: "Senior Frontend Engineer - Internal Tools at Alpaca. Join Alpaca as a Senior Frontend Engineer to design and maintain user-centric applications in a…"
 apply_url: "https://web3vacancy.com/job/senior-frontend-engineer-internal-tools-at-alpaca-7203"
 layout: job

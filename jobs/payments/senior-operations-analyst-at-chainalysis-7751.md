@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:46:14.756022+00:00"
-permalink: "/jobs/senior-operations-analyst-at-chainalysis-7751/"
+permalink: "/senior-operations-analyst-at-chainalysis-7751/"
 description: "Senior Operations Analyst at Chainalysis. Join Chainalysis as a Senior Operations Analyst to enhance employee experiences and support IT operations in a…"
 apply_url: "https://web3vacancy.com/job/senior-operations-analyst-at-chainalysis-7751"
 layout: job

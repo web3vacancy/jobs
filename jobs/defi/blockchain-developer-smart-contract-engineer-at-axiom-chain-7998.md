@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "part-time"
 date: "2026-06-09T10:24:47.366949+00:00"
-permalink: "/jobs/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/"
+permalink: "/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/"
 description: "Blockchain Developer, Smart Contract Engineer at Axiom Chain. Join Axiom Chain as a Blockchain Developer to design and maintain secure smart contracts for…"
 apply_url: "https://web3vacancy.com/job/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998"
 layout: job

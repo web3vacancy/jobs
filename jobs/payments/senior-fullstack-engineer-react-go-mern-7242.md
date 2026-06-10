@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-31T10:34:38.052782+00:00"
-permalink: "/jobs/senior-fullstack-engineer-react-go-mern-7242/"
+permalink: "/senior-fullstack-engineer-react-go-mern-7242/"
 description: "Senior Fullstack Engineer (React + Go/MERN) at Stealth Project. Join a fintech startup at the intersection of blockchain and traditional finance as a…"
 apply_url: "https://web3vacancy.com/job/senior-fullstack-engineer-react-go-mern-7242"
 layout: job

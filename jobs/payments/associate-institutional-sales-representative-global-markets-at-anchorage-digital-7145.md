@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-29T23:41:51.860474+00:00"
-permalink: "/jobs/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145/"
+permalink: "/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145/"
 description: "Associate Institutional Sales Representative - Global Markets at Anchorage Digital. Join Anchorage Digital as an Associate Institutional Sales…"
 apply_url: "https://web3vacancy.com/job/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145"
 layout: job

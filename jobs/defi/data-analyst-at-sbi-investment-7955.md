@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$80,000–$96,000"
 employment_type: "full-time"
 date: "2026-06-09T05:00:21.447994+00:00"
-permalink: "/jobs/data-analyst-at-sbi-investment-7955/"
+permalink: "/data-analyst-at-sbi-investment-7955/"
 description: "Data Analyst at SBI Investment. Join SBI Investment as a Data Analyst to collect, analyze, and visualize data from various sources, supporting business…"
 apply_url: "https://web3vacancy.com/job/data-analyst-at-sbi-investment-7955"
 layout: job

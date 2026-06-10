@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "Competitive"
 employment_type: "internship"
 date: "2026-06-04T07:55:10.693176+00:00"
-permalink: "/jobs/intern-python-developer-at-mts-7568/"
+permalink: "/intern-python-developer-at-mts-7568/"
 description: "Intern Python Developer at MTS. Intern Python Developer position at MTS, focusing on creating AI agents and developing MCP servers."
 apply_url: "https://web3vacancy.com/job/intern-python-developer-at-mts-7568"
 layout: job

@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-06T07:51:34.073316+00:00"
-permalink: "/jobs/frontend-developer-at-bell-integrator-7767/"
+permalink: "/frontend-developer-at-bell-integrator-7767/"
 description: "Frontend Developer at Bell Integrator. Bell Integrator is looking for a Middle Frontend Developer with strong React skills and at least 3 years of…"
 apply_url: "https://web3vacancy.com/job/frontend-developer-at-bell-integrator-7767"
 layout: job

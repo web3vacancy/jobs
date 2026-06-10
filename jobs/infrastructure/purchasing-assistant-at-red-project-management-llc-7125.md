@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "contract"
 date: "2026-05-29T14:32:29.686265+00:00"
-permalink: "/jobs/purchasing-assistant-at-red-project-management-llc-7125/"
+permalink: "/purchasing-assistant-at-red-project-management-llc-7125/"
 description: "Purchasing Assistant at Red Project Management LLC. Red Project Management LLC is looking for a motivated Purchasing Assistant to support procurement…"
 apply_url: "https://web3vacancy.com/job/purchasing-assistant-at-red-project-management-llc-7125"
 layout: job

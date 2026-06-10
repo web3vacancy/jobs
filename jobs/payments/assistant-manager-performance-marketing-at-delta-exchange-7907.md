@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T14:23:14.420317+00:00"
-permalink: "/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"
+permalink: "/assistant-manager-performance-marketing-at-delta-exchange-7907/"
 description: "Assistant Manager, Performance Marketing at Delta Exchange. Join Delta Exchange as an Assistant Manager in Performance Marketing to drive user acquisition…"
 apply_url: "https://web3vacancy.com/job/assistant-manager-performance-marketing-at-delta-exchange-7907"
 layout: job

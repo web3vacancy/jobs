@@ -5,7 +5,7 @@ location: "Office"
 salary: "$105,000–$175,000"
 employment_type: "full-time"
 date: "2026-05-28T17:22:39.708005+00:00"
-permalink: "/jobs/rf-hardware-engineer-at-jump-trading-7039/"
+permalink: "/rf-hardware-engineer-at-jump-trading-7039/"
 description: "RF Hardware Engineer at Jump Trading. Join Jump Trading as an RF Hardware Engineer to drive improvements in analog/RF design for radio products.…"
 apply_url: "https://web3vacancy.com/job/rf-hardware-engineer-at-jump-trading-7039"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$120,000–$240,000"
 employment_type: "full-time"
 date: "2026-06-02T05:00:28.508200+00:00"
-permalink: "/jobs/finance-manager-at-yzi-labs-7344/"
+permalink: "/finance-manager-at-yzi-labs-7344/"
 description: "Finance Manager at YZi Labs. YZi Labs is seeking a Finance Manager to oversee financial planning, budgeting, and compliance in the crypto and Web3…"
 apply_url: "https://web3vacancy.com/job/finance-manager-at-yzi-labs-7344"
 layout: job

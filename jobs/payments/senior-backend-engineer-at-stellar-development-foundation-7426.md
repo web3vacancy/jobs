@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$185,000–$275,000"
 employment_type: "full-time"
 date: "2026-06-02T18:39:18.399218+00:00"
-permalink: "/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/"
+permalink: "/senior-backend-engineer-at-stellar-development-foundation-7426/"
 description: "Senior Backend Engineer at Stellar Development Foundation. Join Stellar Development Foundation as a Senior Backend Engineer to drive backend services and…"
 apply_url: "https://web3vacancy.com/job/senior-backend-engineer-at-stellar-development-foundation-7426"
 layout: job

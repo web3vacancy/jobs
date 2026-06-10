@@ -1,7 +1,7 @@
 title: "Web3, Crypto & Blockchain Jobs — web3vacancy"
 description: "Curated web3, crypto and blockchain job listings, updated continuously from web3vacancy.com."
-url: "https://ceosvex.github.io"
-baseurl: "/web3vacancy-jobs"
+url: "https://web3vacancy.github.io"
+baseurl: "/jobs"
 plugins:
   - jekyll-sitemap
 defaults:

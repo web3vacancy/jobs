@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-30T07:01:59.347489+00:00"
-permalink: "/jobs/frontend-developer-vue-js-quasar-7162/"
+permalink: "/frontend-developer-vue-js-quasar-7162/"
 description: "Frontend Developer (Vue.js / Quasar) at Stealth Project. Looking for an experienced Frontend Developer to support high-load web applications using Vue.js…"
 apply_url: "https://web3vacancy.com/job/frontend-developer-vue-js-quasar-7162"
 layout: job

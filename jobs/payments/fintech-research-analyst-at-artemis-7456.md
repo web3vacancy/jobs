@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "part-time"
 date: "2026-06-03T00:58:08.689473+00:00"
-permalink: "/jobs/fintech-research-analyst-at-artemis-7456/"
+permalink: "/fintech-research-analyst-at-artemis-7456/"
 description: "Fintech Research Analyst at Artemis. Artemis is seeking a part-time Fintech Research Analyst to produce sell-side quality research on crypto and…"
 apply_url: "https://web3vacancy.com/job/fintech-research-analyst-at-artemis-7456"
 layout: job

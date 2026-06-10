@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$140,000–$210,000"
 employment_type: "full-time"
 date: "2026-06-02T18:40:04.764666+00:00"
-permalink: "/jobs/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428/"
+permalink: "/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428/"
 description: "Backend Engineer, Integrations & APIs at Stellar Development Foundation. Join Stellar Development Foundation as a Backend Engineer to build innovative…"
 apply_url: "https://web3vacancy.com/job/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428"
 layout: job

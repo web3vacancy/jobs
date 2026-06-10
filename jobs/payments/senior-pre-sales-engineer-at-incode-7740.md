@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
 date: "2026-06-05T19:37:40.781021+00:00"
-permalink: "/jobs/senior-pre-sales-engineer-at-incode-7740/"
+permalink: "/senior-pre-sales-engineer-at-incode-7740/"
 description: "Senior Pre-Sales Engineer at Incode. Incode is seeking a Senior Pre-Sales Engineer to enhance customer-facing operations, ensuring technical excellence…"
 apply_url: "https://web3vacancy.com/job/senior-pre-sales-engineer-at-incode-7740"
 layout: job

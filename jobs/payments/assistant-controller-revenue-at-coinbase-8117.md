@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$205,785–$242,100"
 employment_type: "full-time"
 date: "2026-06-10T09:02:31.864676+00:00"
-permalink: "/jobs/assistant-controller-revenue-at-coinbase-8117/"
+permalink: "/assistant-controller-revenue-at-coinbase-8117/"
 description: "Assistant Controller, Revenue at Coinbase. Join Coinbase as an Assistant Controller, Revenue, to lead revenue recognition for crypto products and ensure…"
 apply_url: "https://web3vacancy.com/job/assistant-controller-revenue-at-coinbase-8117"
 layout: job

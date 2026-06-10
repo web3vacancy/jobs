@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$128,000–$212,000"
 employment_type: "full-time"
 date: "2026-06-03T18:58:42.859189+00:00"
-permalink: "/jobs/principal-security-architect-at-copperco-7543/"
+permalink: "/principal-security-architect-at-copperco-7543/"
 description: "Principal Security Architect at Copperco. Join Copper as a Principal Security Architect, leading security architecture for institutional digital asset…"
 apply_url: "https://web3vacancy.com/job/principal-security-architect-at-copperco-7543"
 layout: job

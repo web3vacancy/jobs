@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T14:20:19.792893+00:00"
-permalink: "/jobs/senior-crm-martech-manager-at-crypto-com-7901/"
+permalink: "/senior-crm-martech-manager-at-crypto-com-7901/"
 description: "Senior CRM MarTech Manager at Crypto.com. Join Crypto.com as a Senior CRM MarTech Manager to lead the MarTech function, manage customer data platforms,…"
 apply_url: "https://web3vacancy.com/job/senior-crm-martech-manager-at-crypto-com-7901"
 layout: job

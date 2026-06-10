@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "Competitive"
 employment_type: "hybrid"
 date: "2026-05-29T07:04:35.608748+00:00"
-permalink: "/jobs/frontend-developer-at-sber-7065/"
+permalink: "/frontend-developer-at-sber-7065/"
 description: "Frontend Developer at Sber. Join Sber as a Frontend Developer to create user interfaces for various functional subsystems, collaborate with UI/UX…"
 apply_url: "https://web3vacancy.com/job/frontend-developer-at-sber-7065"
 layout: job

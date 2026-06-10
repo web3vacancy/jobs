@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-29T11:06:21.853693+00:00"
-permalink: "/jobs/full-stack-developer-7109/"
+permalink: "/full-stack-developer-7109/"
 description: "Full Stack Developer at Stealth Project. We are looking for a Full Stack Developer to create games for Web and Telegram Mini Apps. Remote full-time…"
 apply_url: "https://web3vacancy.com/job/full-stack-developer-7109"
 layout: job

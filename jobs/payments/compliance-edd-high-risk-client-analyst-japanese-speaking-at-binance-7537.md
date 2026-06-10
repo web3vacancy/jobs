@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$105,000–$175,000"
 employment_type: "full-time"
 date: "2026-06-03T18:56:41.210187+00:00"
-permalink: "/jobs/compliance-edd-high-risk-client-analyst-japanese-speaking-at-binance-7537/"
+permalink: "/compliance-edd-high-risk-client-analyst-japanese-speaking-at-binance-7537/"
 description: "Compliance EDD/High Risk Client Analyst - Japanese Speaking at Binance. Join Binance as a Compliance EDD/High Risk Client Analyst, focusing on high-risk…"
 apply_url: "https://web3vacancy.com/job/compliance-edd-high-risk-client-analyst-japanese-speaking-at-binance-7537"
 layout: job

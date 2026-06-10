@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-28T23:21:54.589872+00:00"
-permalink: "/jobs/product-designer-demo-storyteller-at-nethermind-7049/"
+permalink: "/product-designer-demo-storyteller-at-nethermind-7049/"
 description: "Product Designer / Demo Storyteller at Nethermind. Join Nethermind as a Product Designer / Demo Storyteller to create compelling user interfaces and demo…"
 apply_url: "https://web3vacancy.com/job/product-designer-demo-storyteller-at-nethermind-7049"
 layout: job

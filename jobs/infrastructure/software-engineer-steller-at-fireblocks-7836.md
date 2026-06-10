@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-07T14:07:57.455535+00:00"
-permalink: "/jobs/software-engineer-steller-at-fireblocks-7836/"
+permalink: "/software-engineer-steller-at-fireblocks-7836/"
 description: "Software Engineer - Steller at Fireblocks. Join Fireblocks as a Software Engineer to build and maintain blockchain infrastructure, implementing scalable…"
 apply_url: "https://web3vacancy.com/job/software-engineer-steller-at-fireblocks-7836"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$100,000–$110,000"
 employment_type: "full-time"
 date: "2026-05-28T23:21:36.833379+00:00"
-permalink: "/jobs/operations-analyst-at-galaxy-digital-7048/"
+permalink: "/operations-analyst-at-galaxy-digital-7048/"
 description: "Operations Analyst at Galaxy Digital. Join Galaxy Digital as an Operations Analyst to support trading and investment operations in a fast-paced…"
 apply_url: "https://web3vacancy.com/job/operations-analyst-at-galaxy-digital-7048"
 layout: job

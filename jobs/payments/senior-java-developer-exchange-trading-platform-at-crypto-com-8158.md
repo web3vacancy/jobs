@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$120,000–$150,000"
 employment_type: "full-time"
 date: "2026-06-10T15:10:09.873704+00:00"
-permalink: "/jobs/senior-java-developer-exchange-trading-platform-at-crypto-com-8158/"
+permalink: "/senior-java-developer-exchange-trading-platform-at-crypto-com-8158/"
 description: "Senior Java Developer (Exchange/Trading Platform) at Crypto.com. Join Crypto.com as a Senior Java Developer to design and develop solutions for our…"
 apply_url: "https://web3vacancy.com/job/senior-java-developer-exchange-trading-platform-at-crypto-com-8158"
 layout: job

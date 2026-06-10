@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-04T09:03:35.347755+00:00"
-permalink: "/jobs/lead-scriptwriter-narrative-designer-visual-novels-7575/"
+permalink: "/lead-scriptwriter-narrative-designer-visual-novels-7575/"
 description: "Lead Scriptwriter / Narrative Designer (Visual Novels) at Stealth Project. Join a rapidly growing studio as a Lead Scriptwriter/Narrative Designer for our…"
 apply_url: "https://web3vacancy.com/job/lead-scriptwriter-narrative-designer-visual-novels-7575"
 layout: job

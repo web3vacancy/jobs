@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$98,000–$162,000"
 employment_type: "full-time"
 date: "2026-06-08T17:12:15.073959+00:00"
-permalink: "/jobs/staff-ml-risk-analytics-at-coinbase-7929/"
+permalink: "/staff-ml-risk-analytics-at-coinbase-7929/"
 description: "Staff ML Risk Analytics at Coinbase. Join Coinbase as a Staff ML Risk Analytics professional to tackle sophisticated fraud using machine learning. Work…"
 apply_url: "https://web3vacancy.com/job/staff-ml-risk-analytics-at-coinbase-7929"
 layout: job

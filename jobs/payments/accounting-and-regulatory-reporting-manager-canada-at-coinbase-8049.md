@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-09T17:27:45.148102+00:00"
-permalink: "/jobs/accounting-and-regulatory-reporting-manager-canada-at-coinbase-8049/"
+permalink: "/accounting-and-regulatory-reporting-manager-canada-at-coinbase-8049/"
 description: "Accounting and Regulatory Reporting Manager, Canada at Coinbase. Join Coinbase as an Accounting and Regulatory Reporting Manager to lead regulatory…"
 apply_url: "https://web3vacancy.com/job/accounting-and-regulatory-reporting-manager-canada-at-coinbase-8049"
 layout: job

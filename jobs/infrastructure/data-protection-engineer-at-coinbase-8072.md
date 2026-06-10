@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$144,500–$170,000"
 employment_type: "full-time"
 date: "2026-06-10T02:54:06.363236+00:00"
-permalink: "/jobs/data-protection-engineer-at-coinbase-8072/"
+permalink: "/data-protection-engineer-at-coinbase-8072/"
 description: "Data Protection Engineer at Coinbase. Join Coinbase as a Data Protection Engineer to implement and scale data loss prevention capabilities, protecting the…"
 apply_url: "https://web3vacancy.com/job/data-protection-engineer-at-coinbase-8072"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-04T22:19:49.550346+00:00"
-permalink: "/jobs/accounting-manager-at-gemini-7628/"
+permalink: "/accounting-manager-at-gemini-7628/"
 description: "Accounting Manager at Gemini. Join Gemini as an Accounting Manager to oversee day-to-day accounting operations, ensure compliance with GAAP, and support…"
 apply_url: "https://web3vacancy.com/job/accounting-manager-at-gemini-7628"
 layout: job

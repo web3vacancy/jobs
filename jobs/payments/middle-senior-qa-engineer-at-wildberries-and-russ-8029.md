@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T14:28:09.940656+00:00"
-permalink: "/jobs/middle-senior-qa-engineer-at-wildberries-and-russ-8029/"
+permalink: "/middle-senior-qa-engineer-at-wildberries-and-russ-8029/"
 description: "Middle/Senior QA Engineer at Wildberries and Russ. Join Wildberries and Russ as a Middle/Senior QA Engineer to build automated testing for backend…"
 apply_url: "https://web3vacancy.com/job/middle-senior-qa-engineer-at-wildberries-and-russ-8029"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-01T16:02:10.088469+00:00"
-permalink: "/jobs/team-lead-media-buying-at-celestial-group-7317/"
+permalink: "/team-lead-media-buying-at-celestial-group-7317/"
 description: "Team Lead Media Buying at Celestial Group. Celestial Group is looking for a Team Lead Media Buying to lead a team of Facebook media buyers in the iGaming…"
 apply_url: "https://web3vacancy.com/job/team-lead-media-buying-at-celestial-group-7317"
 layout: job

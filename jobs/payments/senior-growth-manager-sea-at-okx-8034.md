@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T14:41:40.144704+00:00"
-permalink: "/jobs/senior-growth-manager-sea-at-okx-8034/"
+permalink: "/senior-growth-manager-sea-at-okx-8034/"
 description: "Senior Growth Manager, SEA at OKX. Join OKX as a Senior Growth Manager to lead growth initiatives across Southeast Asia, focusing on user acquisition,…"
 apply_url: "https://web3vacancy.com/job/senior-growth-manager-sea-at-okx-8034"
 layout: job

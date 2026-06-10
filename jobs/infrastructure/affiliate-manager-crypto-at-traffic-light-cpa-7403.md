@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-02T14:33:07.584685+00:00"
-permalink: "/jobs/affiliate-manager-crypto-at-traffic-light-cpa-7403/"
+permalink: "/affiliate-manager-crypto-at-traffic-light-cpa-7403/"
 description: "Affiliate Manager (Crypto) at Traffic Light CPA. Traffic Light CPA is seeking an Affiliate Manager for their Crypto vertical. The ideal candidate will…"
 apply_url: "https://web3vacancy.com/job/affiliate-manager-crypto-at-traffic-light-cpa-7403"
 layout: job

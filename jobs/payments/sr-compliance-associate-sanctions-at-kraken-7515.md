@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T13:06:58.957253+00:00"
-permalink: "/jobs/sr-compliance-associate-sanctions-at-kraken-7515/"
+permalink: "/sr-compliance-associate-sanctions-at-kraken-7515/"
 description: "Sr. Compliance Associate, Sanctions at Kraken. Join Kraken as a Sr. Compliance Associate, focusing on sanctions regulatory reporting. Work remotely in the…"
 apply_url: "https://web3vacancy.com/job/sr-compliance-associate-sanctions-at-kraken-7515"
 layout: job

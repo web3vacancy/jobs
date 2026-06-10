@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T00:56:58.773741+00:00"
-permalink: "/jobs/software-engineer-at-arkham-7453/"
+permalink: "/software-engineer-at-arkham-7453/"
 description: "Software Engineer at Arkham. Join Arkham as a Software Engineer in a fully remote role, contributing to a crypto intelligence platform that reveals…"
 apply_url: "https://web3vacancy.com/job/software-engineer-at-arkham-7453"
 layout: job

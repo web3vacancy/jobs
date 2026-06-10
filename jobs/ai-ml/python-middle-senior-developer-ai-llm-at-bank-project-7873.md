@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$2,600–$3,500"
 employment_type: "full-time"
 date: "2026-06-08T10:45:43.991287+00:00"
-permalink: "/jobs/python-middle-senior-developer-ai-llm-at-bank-project-7873/"
+permalink: "/python-middle-senior-developer-ai-llm-at-bank-project-7873/"
 description: "Python Middle+ / Senior Developer (AI / LLM) at Bank Project. We are looking for a Middle+ / Senior Python Developer to work on an AI project focused on…"
 apply_url: "https://web3vacancy.com/job/python-middle-senior-developer-ai-llm-at-bank-project-7873"
 layout: job

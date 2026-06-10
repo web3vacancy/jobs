@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:35:09.265663+00:00"
-permalink: "/jobs/solutions-engineer-at-bitgo-7734/"
+permalink: "/solutions-engineer-at-bitgo-7734/"
 description: "Solutions Engineer at BitGo. Join BitGo as a Solutions Engineer to lead technical demos and manage client relationships in the digital asset space.…"
 apply_url: "https://web3vacancy.com/job/solutions-engineer-at-bitgo-7734"
 layout: job

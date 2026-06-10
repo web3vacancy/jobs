@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T08:03:16.581023+00:00"
-permalink: "/jobs/middle-fullstack-developer-react-next-js-node-js-api-design-7474/"
+permalink: "/middle-fullstack-developer-react-next-js-node-js-api-design-7474/"
 description: "Middle Fullstack Developer (React, Next.js / Node.js, API design) at Stealth Project. Looking for a Middle Fullstack Developer with 3+ years of experience…"
 apply_url: "https://web3vacancy.com/job/middle-fullstack-developer-react-next-js-node-js-api-design-7474"
 layout: job

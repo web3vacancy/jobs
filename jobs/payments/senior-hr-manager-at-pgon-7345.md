@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$2,000–$3,500"
 employment_type: "full-time"
 date: "2026-06-02T06:00:25.505655+00:00"
-permalink: "/jobs/senior-hr-manager-at-pgon-7345/"
+permalink: "/senior-hr-manager-at-pgon-7345/"
 description: "Senior HR Manager at PGON. Seeking a strong Senior HR Manager to build HR functions from scratch in a finance/crypto company. Fully remote role with…"
 apply_url: "https://web3vacancy.com/job/senior-hr-manager-at-pgon-7345"
 layout: job

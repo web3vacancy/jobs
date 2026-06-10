@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
 date: "2026-06-09T17:30:28.275216+00:00"
-permalink: "/jobs/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057/"
+permalink: "/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057/"
 description: "Senior Site Reliability Engineer, Workforce Identity at Coinbase. Join Coinbase as a Senior Site Reliability Engineer focusing on building and scaling the…"
 apply_url: "https://web3vacancy.com/job/senior-site-reliability-engineer-workforce-identity-at-coinbase-8057"
 layout: job

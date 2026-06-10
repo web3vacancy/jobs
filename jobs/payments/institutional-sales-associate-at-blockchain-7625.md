@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-04T22:18:35.382892+00:00"
-permalink: "/jobs/institutional-sales-associate-at-blockchain-7625/"
+permalink: "/institutional-sales-associate-at-blockchain-7625/"
 description: "Institutional Sales Associate at Blockchain. Join Blockchain as an Institutional Sales Associate to drive growth in the AMER region, managing high-value…"
 apply_url: "https://web3vacancy.com/job/institutional-sales-associate-at-blockchain-7625"
 layout: job

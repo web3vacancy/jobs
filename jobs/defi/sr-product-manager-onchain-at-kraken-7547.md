@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T19:09:45.688955+00:00"
-permalink: "/jobs/sr-product-manager-onchain-at-kraken-7547/"
+permalink: "/sr-product-manager-onchain-at-kraken-7547/"
 description: "Sr Product Manager, Onchain at Kraken. Join Kraken as a Sr Product Manager, Onchain to define and execute product strategies for innovative crypto…"
 apply_url: "https://web3vacancy.com/job/sr-product-manager-onchain-at-kraken-7547"
 layout: job

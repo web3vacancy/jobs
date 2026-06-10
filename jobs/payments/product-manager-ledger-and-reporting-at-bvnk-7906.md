@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T14:22:54.074404+00:00"
-permalink: "/jobs/product-manager-ledger-and-reporting-at-bvnk-7906/"
+permalink: "/product-manager-ledger-and-reporting-at-bvnk-7906/"
 description: "Product Manager - Ledger & Reporting at Bvnk. Join BVNK as a Product Manager to lead the Reporting & Customer Reconciliation subdomain, driving product…"
 apply_url: "https://web3vacancy.com/job/product-manager-ledger-and-reporting-at-bvnk-7906"
 layout: job

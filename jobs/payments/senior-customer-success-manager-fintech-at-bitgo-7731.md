@@ -5,7 +5,7 @@ location: "Office"
 salary: "$140,000–$170,000"
 employment_type: "full-time"
 date: "2026-06-05T19:34:04.191068+00:00"
-permalink: "/jobs/senior-customer-success-manager-fintech-at-bitgo-7731/"
+permalink: "/senior-customer-success-manager-fintech-at-bitgo-7731/"
 description: "Senior Customer Success Manager - Fintech at BitGo. Join BitGo as a Senior Customer Success Manager to help fintech clients onboard and integrate with our…"
 apply_url: "https://web3vacancy.com/job/senior-customer-success-manager-fintech-at-bitgo-7731"
 layout: job

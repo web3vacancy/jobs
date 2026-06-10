@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-28T23:20:56.296672+00:00"
-permalink: "/jobs/forward-deployed-engineer-at-taxbit-7046/"
+permalink: "/forward-deployed-engineer-at-taxbit-7046/"
 description: "Forward Deployed Engineer at TaxBit. TaxBit is seeking a Forward Deployed Engineer in Madrid to provide technical leadership and client integration…"
 apply_url: "https://web3vacancy.com/job/forward-deployed-engineer-at-taxbit-7046"
 layout: job

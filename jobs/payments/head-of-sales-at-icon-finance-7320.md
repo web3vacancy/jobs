@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$2,000–$3,000"
 employment_type: "full-time"
 date: "2026-06-01T17:00:28.950075+00:00"
-permalink: "/jobs/head-of-sales-at-icon-finance-7320/"
+permalink: "/head-of-sales-at-icon-finance-7320/"
 description: "Head of Sales at ICON Finance. ICON Finance is seeking a Head of Sales to build and scale sales operations from scratch in a remote, full-time role.…"
 apply_url: "https://web3vacancy.com/job/head-of-sales-at-icon-finance-7320"
 layout: job

@@ -5,7 +5,7 @@ location: "Office"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
 date: "2026-05-30T17:50:39.500201+00:00"
-permalink: "/jobs/sr-product-designer-gamification-at-btse-7208/"
+permalink: "/sr-product-designer-gamification-at-btse-7208/"
 description: "(Sr.) Product Designer - Gamification at Btse. Join Btse as a Senior Product Designer focusing on gamification. Design mobile experiences that enhance…"
 apply_url: "https://web3vacancy.com/job/sr-product-designer-gamification-at-btse-7208"
 layout: job

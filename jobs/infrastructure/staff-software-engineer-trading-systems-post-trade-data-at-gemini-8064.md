@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T20:48:53.827315+00:00"
-permalink: "/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"
+permalink: "/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"
 description: "Staff Software Engineer, Trading Systems (Post-Trade Data) at Gemini. Join Gemini as a Staff Software Engineer in Singapore, focusing on Post-Trade Data.…"
 apply_url: "https://web3vacancy.com/job/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064"
 layout: job

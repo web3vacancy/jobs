@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T10:22:30.939536+00:00"
-permalink: "/jobs/senior-staff-ai-first-fullstack-engineer-at-taxes-for-expats-tfx-7997/"
+permalink: "/senior-staff-ai-first-fullstack-engineer-at-taxes-for-expats-tfx-7997/"
 description: "Senior / Staff AI-First Fullstack Engineer at Taxes for Expats (TFX). Join Taxes for Expats (TFX) as a Senior / Staff AI-First Fullstack Engineer. Work…"
 apply_url: "https://web3vacancy.com/job/senior-staff-ai-first-fullstack-engineer-at-taxes-for-expats-tfx-7997"
 layout: job

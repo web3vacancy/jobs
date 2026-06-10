@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T09:02:21.075386+00:00"
-permalink: "/jobs/fullstack-developer-react-node-js-7672/"
+permalink: "/fullstack-developer-react-node-js-7672/"
 description: "Fullstack Developer (React / Node.js) at Stealth Project. We are looking for a Fullstack Developer with strong skills in React, TypeScript, and Node.js.…"
 apply_url: "https://web3vacancy.com/job/fullstack-developer-react-node-js-7672"
 layout: job

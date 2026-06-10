@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-29T07:56:36.733068+00:00"
-permalink: "/jobs/lead-business-analyst-at-mts-7079/"
+permalink: "/lead-business-analyst-at-mts-7079/"
 description: "Lead Business Analyst at MTS. MTS is looking for a Lead Business Analyst to identify and analyze business needs, document requirements, and communicate…"
 apply_url: "https://web3vacancy.com/job/lead-business-analyst-at-mts-7079"
 layout: job

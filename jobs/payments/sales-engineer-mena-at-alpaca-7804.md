@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-06T15:00:20.032840+00:00"
-permalink: "/jobs/sales-engineer-mena-at-alpaca-7804/"
+permalink: "/sales-engineer-mena-at-alpaca-7804/"
 description: "Sales Engineer MENA at Alpaca. Join Alpaca as a Sales Engineer MENA, where you'll leverage your technical expertise to support sales and customer success,…"
 apply_url: "https://web3vacancy.com/job/sales-engineer-mena-at-alpaca-7804"
 layout: job

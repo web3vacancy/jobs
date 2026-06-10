@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T14:21:28.785252+00:00"
-permalink: "/jobs/senior-data-engineer-compliance-data-platform-at-okx-7903/"
+permalink: "/senior-data-engineer-compliance-data-platform-at-okx-7903/"
 description: "Senior Data Engineer, Compliance Data Platform at OKX. Join OKX as a Senior Data Engineer to own end-to-end data pipelines for compliance projects,…"
 apply_url: "https://web3vacancy.com/job/senior-data-engineer-compliance-data-platform-at-okx-7903"
 layout: job

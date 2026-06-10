@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-01T08:34:46.744769+00:00"
-permalink: "/jobs/senior-developer-c-blockchain-7266/"
+permalink: "/senior-developer-c-blockchain-7266/"
 description: "Senior Developer C (Blockchain) at Stealth Project. Looking for a Senior C Developer with blockchain experience. Remote work available for candidates from…"
 apply_url: "https://web3vacancy.com/job/senior-developer-c-blockchain-7266"
 layout: job

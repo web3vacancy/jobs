@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-01T12:16:57.192586+00:00"
-permalink: "/jobs/security-engineer-blue-teamer-at-satoshilabs-7294/"
+permalink: "/security-engineer-blue-teamer-at-satoshilabs-7294/"
 description: "Security Engineer - Blue Teamer at SatoshiLabs. Join SatoshiLabs as a Security Engineer - Blue Teamer. Focus on monitoring, implementation, and internal…"
 apply_url: "https://web3vacancy.com/job/security-engineer-blue-teamer-at-satoshilabs-7294"
 layout: job

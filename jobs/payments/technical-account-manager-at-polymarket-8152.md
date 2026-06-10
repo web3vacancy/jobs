@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T15:07:21.991966+00:00"
-permalink: "/jobs/technical-account-manager-at-polymarket-8152/"
+permalink: "/technical-account-manager-at-polymarket-8152/"
 description: "Technical Account Manager at Polymarket. Join Polymarket as a Technical Account Manager to facilitate client integrations with our prediction market…"
 apply_url: "https://web3vacancy.com/job/technical-account-manager-at-polymarket-8152"
 layout: job

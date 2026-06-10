@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$201,365–$236,900"
 employment_type: "full-time"
 date: "2026-06-09T20:47:10.097112+00:00"
-permalink: "/jobs/senior-manager-finance-and-strategy-at-coinbase-8060/"
+permalink: "/senior-manager-finance-and-strategy-at-coinbase-8060/"
 description: "Senior Manager, Finance & Strategy at Coinbase. Join Coinbase as a Senior Manager in Finance & Strategy, providing CFO-level financial partnership and…"
 apply_url: "https://web3vacancy.com/job/senior-manager-finance-and-strategy-at-coinbase-8060"
 layout: job

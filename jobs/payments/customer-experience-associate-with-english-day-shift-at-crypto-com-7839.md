@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T02:12:36.900562+00:00"
-permalink: "/jobs/customer-experience-associate-with-english-day-shift-at-crypto-com-7839/"
+permalink: "/customer-experience-associate-with-english-day-shift-at-crypto-com-7839/"
 description: "Customer Experience Associate with English (Day shift) at Crypto.com. Join Crypto.com as a Customer Experience Associate to support customers and enhance…"
 apply_url: "https://web3vacancy.com/job/customer-experience-associate-with-english-day-shift-at-crypto-com-7839"
 layout: job

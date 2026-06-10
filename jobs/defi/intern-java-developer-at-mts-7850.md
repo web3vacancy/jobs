@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "Competitive"
 employment_type: "internship"
 date: "2026-06-08T07:57:19.562219+00:00"
-permalink: "/jobs/intern-java-developer-at-mts-7850/"
+permalink: "/intern-java-developer-at-mts-7850/"
 description: "Intern Java Developer at MTS. Intern Java Developer position at MTS, focusing on AI platform development."
 apply_url: "https://web3vacancy.com/job/intern-java-developer-at-mts-7850"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "part-time"
 date: "2026-06-04T13:03:21.031298+00:00"
-permalink: "/jobs/blockchain-web3-software-engineer-7605/"
+permalink: "/blockchain-web3-software-engineer-7605/"
 description: "Blockchain / Web3 Software Engineer at Stealth Project. Experienced Blockchain / Web3 Software Engineer specializing in AI-driven development, smart…"
 apply_url: "https://web3vacancy.com/job/blockchain-web3-software-engineer-7605"
 layout: job

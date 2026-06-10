@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T13:07:50.204907+00:00"
-permalink: "/jobs/hr-specialist-crypto-finance-at-crypto-finance-7517/"
+permalink: "/hr-specialist-crypto-finance-at-crypto-finance-7517/"
 description: "HR Specialist - Crypto Finance at Crypto Finance. Join Crypto Finance as an HR Specialist in Zurich. Manage HR administration, recruitment, and support…"
 apply_url: "https://web3vacancy.com/job/hr-specialist-crypto-finance-at-crypto-finance-7517"
 layout: job

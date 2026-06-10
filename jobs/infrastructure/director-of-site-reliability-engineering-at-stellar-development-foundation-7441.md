@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$210,000–$310,000"
 employment_type: "full-time"
 date: "2026-06-03T00:52:31.522231+00:00"
-permalink: "/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/"
+permalink: "/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/"
 description: "Director of Site Reliability Engineering at Stellar Development Foundation. Join Stellar Development Foundation as the Director of Site Reliability…"
 apply_url: "https://web3vacancy.com/job/director-of-site-reliability-engineering-at-stellar-development-foundation-7441"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$68,000–$112,000"
 employment_type: "full-time"
 date: "2026-06-09T17:28:47.259939+00:00"
-permalink: "/jobs/derivatives-sales-associate-at-coinbase-8052/"
+permalink: "/derivatives-sales-associate-at-coinbase-8052/"
 description: "Derivatives Sales Associate at Coinbase. Join Coinbase as a Derivatives Sales Associate to drive growth in APAC by building relationships with VIP traders…"
 apply_url: "https://web3vacancy.com/job/derivatives-sales-associate-at-coinbase-8052"
 layout: job

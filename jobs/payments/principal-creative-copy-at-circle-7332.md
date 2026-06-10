@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$172,500–$222,500"
 employment_type: "full-time"
 date: "2026-06-02T00:21:30.593804+00:00"
-permalink: "/jobs/principal-creative-copy-at-circle-7332/"
+permalink: "/principal-creative-copy-at-circle-7332/"
 description: "Principal Creative, Copy at Circle. Join Circle as a Principal Creative, Copy to shape the voice of our brand through impactful creative content and…"
 apply_url: "https://web3vacancy.com/job/principal-creative-copy-at-circle-7332"
 layout: job

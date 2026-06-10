@@ -5,7 +5,7 @@ location: "Onsite"
 salary: "$60,000–$100,000"
 employment_type: "full-time"
 date: "2026-06-02T00:23:28.126343+00:00"
-permalink: "/jobs/qa-analyst-at-incode-7338/"
+permalink: "/qa-analyst-at-incode-7338/"
 description: "QA Analyst at Incode. Join Incode as a QA Analyst to ensure high-quality identity solutions through meticulous testing of web and mobile applications,…"
 apply_url: "https://web3vacancy.com/job/qa-analyst-at-incode-7338"
 layout: job

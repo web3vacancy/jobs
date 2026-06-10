@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T14:21:00.078134+00:00"
-permalink: "/jobs/senior-quality-assurance-automation-engineer-at-crypto-com-7902/"
+permalink: "/senior-quality-assurance-automation-engineer-at-crypto-com-7902/"
 description: "Senior Quality Assurance Automation Engineer at Crypto.com. Join Crypto.com as a Senior QA Automation Engineer to enhance the quality of our testing…"
 apply_url: "https://web3vacancy.com/job/senior-quality-assurance-automation-engineer-at-crypto-com-7902"
 layout: job

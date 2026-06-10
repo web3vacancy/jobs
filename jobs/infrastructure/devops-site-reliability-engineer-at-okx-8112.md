@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T09:00:33.023475+00:00"
-permalink: "/jobs/devops-site-reliability-engineer-at-okx-8112/"
+permalink: "/devops-site-reliability-engineer-at-okx-8112/"
 description: "DevOps / Site Reliability Engineer at OKX. Join OKX as a DevOps Engineer to build and maintain core infrastructure for AIOps, optimize R&D infrastructure,…"
 apply_url: "https://web3vacancy.com/job/devops-site-reliability-engineer-at-okx-8112"
 layout: job

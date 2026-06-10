@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T15:08:26.127370+00:00"
-permalink: "/jobs/member-of-legal-operations-at-anchorage-digital-8154/"
+permalink: "/member-of-legal-operations-at-anchorage-digital-8154/"
 description: "Member of Legal Operations at Anchorage Digital. Join Anchorage Digital as a Member of Legal Operations to enhance legal task management and support…"
 apply_url: "https://web3vacancy.com/job/member-of-legal-operations-at-anchorage-digital-8154"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$17,250–$32,200"
 employment_type: "full-time"
 date: "2026-06-05T10:10:51.704486+00:00"
-permalink: "/jobs/typescript-developer-3d-graphics-at-planner-5d-7685/"
+permalink: "/typescript-developer-3d-graphics-at-planner-5d-7685/"
 description: "Typescript developer (3d graphics) at Planner 5D. Join Planner 5D as a Frontend Developer specializing in 3D graphics. Work remotely with a competitive…"
 apply_url: "https://web3vacancy.com/job/typescript-developer-3d-graphics-at-planner-5d-7685"
 layout: job

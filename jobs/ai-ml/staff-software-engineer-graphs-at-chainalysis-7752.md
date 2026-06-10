@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:46:34.905947+00:00"
-permalink: "/jobs/staff-software-engineer-graphs-at-chainalysis-7752/"
+permalink: "/staff-software-engineer-graphs-at-chainalysis-7752/"
 description: "Staff Software Engineer, Graphs at Chainalysis. Join Chainalysis as a Staff Software Engineer, leading the development of cloud-native services and…"
 apply_url: "https://web3vacancy.com/job/staff-software-engineer-graphs-at-chainalysis-7752"
 layout: job

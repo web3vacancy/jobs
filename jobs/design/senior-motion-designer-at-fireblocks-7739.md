@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-05T19:37:19.664696+00:00"
-permalink: "/jobs/senior-motion-designer-at-fireblocks-7739/"
+permalink: "/senior-motion-designer-at-fireblocks-7739/"
 description: "Senior Motion Designer at Fireblocks. Fireblocks is seeking a Senior Motion Designer to define and build the brand's motion system, creating compelling 2D…"
 apply_url: "https://web3vacancy.com/job/senior-motion-designer-at-fireblocks-7739"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "From $2,000"
 employment_type: "full-time"
 date: "2026-06-02T07:01:49.587835+00:00"
-permalink: "/jobs/crypto-media-buyer-7347/"
+permalink: "/crypto-media-buyer-7347/"
 description: "Crypto Media Buyer at Stealth Project. We are looking for strong Crypto Media Buyers with unlimited budgets and opportunities for scaling. High rewards…"
 apply_url: "https://web3vacancy.com/job/crypto-media-buyer-7347"
 layout: job

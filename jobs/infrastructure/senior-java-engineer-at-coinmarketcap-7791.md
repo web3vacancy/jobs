@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$97,750–$149,500"
 employment_type: "full-time"
 date: "2026-06-06T10:27:18.054297+00:00"
-permalink: "/jobs/senior-java-engineer-at-coinmarketcap-7791/"
+permalink: "/senior-java-engineer-at-coinmarketcap-7791/"
 description: "Senior Java Engineer at CoinMarketCap. Join CoinMarketCap as a Senior Java Engineer and help power crypto with data. Work remotely and contribute to…"
 apply_url: "https://web3vacancy.com/job/senior-java-engineer-at-coinmarketcap-7791"
 layout: job

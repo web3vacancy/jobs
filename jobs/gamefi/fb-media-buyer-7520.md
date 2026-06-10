@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T14:01:09.861904+00:00"
-permalink: "/jobs/fb-media-buyer-7520/"
+permalink: "/fb-media-buyer-7520/"
 description: "FB Media Buyer at Stealth Project. We are looking for a strong FB Media Buyer to join our team, which is scaling and growing steadily. The ideal candidate…"
 apply_url: "https://web3vacancy.com/job/fb-media-buyer-7520"
 layout: job

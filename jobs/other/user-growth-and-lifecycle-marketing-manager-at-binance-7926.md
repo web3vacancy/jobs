@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$120,000–$200,000"
 employment_type: "full-time"
 date: "2026-06-08T17:10:49.485868+00:00"
-permalink: "/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7926/"
+permalink: "/user-growth-and-lifecycle-marketing-manager-at-binance-7926/"
 description: "User Growth & Lifecycle Marketing Manager at Binance. Join Binance as a User Growth & Lifecycle Marketing Manager to lead global marketing campaigns,…"
 apply_url: "https://web3vacancy.com/job/user-growth-and-lifecycle-marketing-manager-at-binance-7926"
 layout: job

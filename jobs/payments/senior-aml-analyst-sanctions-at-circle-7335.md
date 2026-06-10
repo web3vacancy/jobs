@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-02T00:22:35.416991+00:00"
-permalink: "/jobs/senior-aml-analyst-sanctions-at-circle-7335/"
+permalink: "/senior-aml-analyst-sanctions-at-circle-7335/"
 description: "Senior AML Analyst, Sanctions at Circle. Join Circle as a Senior AML Analyst, Sanctions in Bangalore. Conduct detailed reviews in compliance operations,…"
 apply_url: "https://web3vacancy.com/job/senior-aml-analyst-sanctions-at-circle-7335"
 layout: job

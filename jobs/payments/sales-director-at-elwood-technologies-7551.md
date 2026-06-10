@@ -5,7 +5,7 @@ location: "Office"
 salary: "$110,000–$150,000"
 employment_type: "full-time"
 date: "2026-06-03T21:27:23.623163+00:00"
-permalink: "/jobs/sales-director-at-elwood-technologies-7551/"
+permalink: "/sales-director-at-elwood-technologies-7551/"
 description: "Sales Director at Elwood Technologies. Elwood Technologies is seeking a Sales Director in New York to drive revenue growth and market share in the US…"
 apply_url: "https://web3vacancy.com/job/sales-director-at-elwood-technologies-7551"
 layout: job

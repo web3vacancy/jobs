@@ -5,7 +5,7 @@ location: "Office"
 salary: "$52,000–$88,000"
 employment_type: "full-time"
 date: "2026-06-05T19:36:54.542352+00:00"
-permalink: "/jobs/internal-recruiter-at-copperco-7738/"
+permalink: "/internal-recruiter-at-copperco-7738/"
 description: "Internal Recruiter at Copperco. Join Copperco as an Internal Recruiter to attract and hire top talent in a dynamic environment. Enjoy a competitive salary…"
 apply_url: "https://web3vacancy.com/job/internal-recruiter-at-copperco-7738"
 layout: job

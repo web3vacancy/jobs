@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$200,000–$260,000"
 employment_type: "full-time"
 date: "2026-06-02T00:20:23.326459+00:00"
-permalink: "/jobs/principal-product-manager-growth-at-circle-7329/"
+permalink: "/principal-product-manager-growth-at-circle-7329/"
 description: "Principal Product Manager, Growth at Circle. Join Circle as a Principal Product Manager, Growth to drive the regional growth strategy for USDC, leveraging…"
 apply_url: "https://web3vacancy.com/job/principal-product-manager-growth-at-circle-7329"
 layout: job

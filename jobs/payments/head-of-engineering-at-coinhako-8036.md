@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T14:42:53.780519+00:00"
-permalink: "/jobs/head-of-engineering-at-coinhako-8036/"
+permalink: "/head-of-engineering-at-coinhako-8036/"
 description: "Head of Engineering at Coinhako. Coinhako is seeking a Head of Engineering to lead product engineering strategy and execution, manage a high-performing…"
 apply_url: "https://web3vacancy.com/job/head-of-engineering-at-coinhako-8036"
 layout: job

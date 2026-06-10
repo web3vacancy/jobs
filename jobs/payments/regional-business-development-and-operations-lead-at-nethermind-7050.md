@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-28T23:22:07.399325+00:00"
-permalink: "/jobs/regional-business-development-and-operations-lead-at-nethermind-7050/"
+permalink: "/regional-business-development-and-operations-lead-at-nethermind-7050/"
 description: "Regional Business Development & Operations Lead at Nethermind. Nethermind is seeking a Senior Business Development & Operations Lead in Spain to drive…"
 apply_url: "https://web3vacancy.com/job/regional-business-development-and-operations-lead-at-nethermind-7050"
 layout: job

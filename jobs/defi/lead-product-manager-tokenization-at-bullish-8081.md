@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$245,000–$285,000"
 employment_type: "full-time"
 date: "2026-06-10T02:57:19.423705+00:00"
-permalink: "/jobs/lead-product-manager-tokenization-at-bullish-8081/"
+permalink: "/lead-product-manager-tokenization-at-bullish-8081/"
 description: "Lead Product Manager, Tokenization at Bullish. Bullish is seeking a Lead Product Manager for their tokenization platform, focusing on institutional-grade…"
 apply_url: "https://web3vacancy.com/job/lead-product-manager-tokenization-at-bullish-8081"
 layout: job

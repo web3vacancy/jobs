@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T20:49:59.796878+00:00"
-permalink: "/jobs/data-engineer-at-elliptic-8067/"
+permalink: "/data-engineer-at-elliptic-8067/"
 description: "Data Engineer at Elliptic. Join Elliptic as a Data Engineer to build and optimize systems for processing large-scale blockchain and off-chain datasets,…"
 apply_url: "https://web3vacancy.com/job/data-engineer-at-elliptic-8067"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T15:09:01.402502+00:00"
-permalink: "/jobs/change-oversight-and-third-party-operations-manager-at-kraken-8155/"
+permalink: "/change-oversight-and-third-party-operations-manager-at-kraken-8155/"
 description: "Change Oversight & Third Party Operations Manager at Kraken. Join Kraken as a Change Oversight & Third Party Operations Manager to support IT governance…"
 apply_url: "https://web3vacancy.com/job/change-oversight-and-third-party-operations-manager-at-kraken-8155"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$140,000–$185,000"
 employment_type: "full-time"
 date: "2026-06-02T00:22:08.786304+00:00"
-permalink: "/jobs/lead-analyst-product-compliance-at-circle-7334/"
+permalink: "/lead-analyst-product-compliance-at-circle-7334/"
 description: "Lead Analyst, Product Compliance at Circle. Join Circle as a Lead Analyst, Product Compliance, ensuring products align with regulatory expectations and…"
 apply_url: "https://web3vacancy.com/job/lead-analyst-product-compliance-at-circle-7334"
 layout: job

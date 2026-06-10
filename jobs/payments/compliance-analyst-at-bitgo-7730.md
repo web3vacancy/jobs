@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:33:48.628688+00:00"
-permalink: "/jobs/compliance-analyst-at-bitgo-7730/"
+permalink: "/compliance-analyst-at-bitgo-7730/"
 description: "Compliance Analyst at BitGo. BitGo is seeking an experienced Compliance Analyst to act as Compliance Officer and MLRO, ensuring compliance with UAE laws…"
 apply_url: "https://web3vacancy.com/job/compliance-analyst-at-bitgo-7730"
 layout: job

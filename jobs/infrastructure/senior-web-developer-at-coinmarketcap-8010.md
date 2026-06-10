@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$97,750–$149,500"
 employment_type: "full-time"
 date: "2026-06-09T11:03:13.670805+00:00"
-permalink: "/jobs/senior-web-developer-at-coinmarketcap-8010/"
+permalink: "/senior-web-developer-at-coinmarketcap-8010/"
 description: "Senior Web Developer at CoinMarketCap. Join CoinMarketCap as a Senior Web Developer to implement user-facing features and optimize web applications in a…"
 apply_url: "https://web3vacancy.com/job/senior-web-developer-at-coinmarketcap-8010"
 layout: job

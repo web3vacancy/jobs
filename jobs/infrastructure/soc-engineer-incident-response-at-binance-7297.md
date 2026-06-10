@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-01T12:17:57.306728+00:00"
-permalink: "/jobs/soc-engineer-incident-response-at-binance-7297/"
+permalink: "/soc-engineer-incident-response-at-binance-7297/"
 description: "SOC Engineer (Incident Response) at Binance. Join Binance as a SOC Engineer (Incident Response) to enhance security measures in a leading blockchain…"
 apply_url: "https://web3vacancy.com/job/soc-engineer-incident-response-at-binance-7297"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$210,000–$365,000"
 employment_type: "full-time"
 date: "2026-06-02T18:39:00.670034+00:00"
-permalink: "/jobs/director-of-research-at-stellar-development-foundation-7425/"
+permalink: "/director-of-research-at-stellar-development-foundation-7425/"
 description: "Director of Research at Stellar Development Foundation. Join Stellar Development Foundation as the Director of Research to lead scientific and…"
 apply_url: "https://web3vacancy.com/job/director-of-research-at-stellar-development-foundation-7425"
 layout: job

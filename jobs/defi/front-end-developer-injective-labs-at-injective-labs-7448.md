@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T00:54:46.302215+00:00"
-permalink: "/jobs/front-end-developer-injective-labs-at-injective-labs-7448/"
+permalink: "/front-end-developer-injective-labs-at-injective-labs-7448/"
 description: "Front-End Developer - Injective Labs at Injective Labs. Join Injective Labs as a Front-End Developer and work on cutting-edge decentralized applications…"
 apply_url: "https://web3vacancy.com/job/front-end-developer-injective-labs-at-injective-labs-7448"
 layout: job

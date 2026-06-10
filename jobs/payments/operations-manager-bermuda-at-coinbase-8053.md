@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-09T17:29:03.960680+00:00"
-permalink: "/jobs/operations-manager-bermuda-at-coinbase-8053/"
+permalink: "/operations-manager-bermuda-at-coinbase-8053/"
 description: "Operations Manager, Bermuda at Coinbase. Join Coinbase as an Operations Manager in Bermuda, overseeing operational functions and ensuring compliance with…"
 apply_url: "https://web3vacancy.com/job/operations-manager-bermuda-at-coinbase-8053"
 layout: job

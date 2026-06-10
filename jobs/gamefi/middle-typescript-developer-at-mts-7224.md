@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-31T07:06:32.878833+00:00"
-permalink: "/jobs/middle-typescript-developer-at-mts-7224/"
+permalink: "/middle-typescript-developer-at-mts-7224/"
 description: "Middle TypeScript Developer at MTS. MTS is looking for a Middle TypeScript Developer to design, develop, and support client-side gaming solutions. Join a…"
 apply_url: "https://web3vacancy.com/job/middle-typescript-developer-at-mts-7224"
 layout: job

@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$98,000–$162,000"
 employment_type: "full-time"
 date: "2026-06-09T17:27:24.463719+00:00"
-permalink: "/jobs/tax-director-mergers-and-acquisitions-m-and-a-at-bpmcpa-8048/"
+permalink: "/tax-director-mergers-and-acquisitions-m-and-a-at-bpmcpa-8048/"
 description: "Tax Director - Mergers & Acquisitions (M&A) at Bpmcpa. Join BPM as a Tax Director in the Mergers & Acquisitions team, leading strategic tax advisory…"
 apply_url: "https://web3vacancy.com/job/tax-director-mergers-and-acquisitions-m-and-a-at-bpmcpa-8048"
 layout: job

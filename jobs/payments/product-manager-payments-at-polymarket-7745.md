@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:44:24.278174+00:00"
-permalink: "/jobs/product-manager-payments-at-polymarket-7745/"
+permalink: "/product-manager-payments-at-polymarket-7745/"
 description: "Product Manager, Payments at Polymarket. Join Polymarket as a Product Manager for Payments, overseeing the payments stack to enhance user experience and…"
 apply_url: "https://web3vacancy.com/job/product-manager-payments-at-polymarket-7745"
 layout: job

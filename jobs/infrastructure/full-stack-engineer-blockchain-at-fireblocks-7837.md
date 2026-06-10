@@ -5,7 +5,7 @@ location: "Office"
 salary: "$63,000–$83,000"
 employment_type: "full-time"
 date: "2026-06-07T14:08:10.140575+00:00"
-permalink: "/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"
+permalink: "/full-stack-engineer-blockchain-at-fireblocks-7837/"
 description: "Full Stack Engineer, Blockchain at Fireblocks. Join Fireblocks as a Full Stack Engineer, focusing on building and maintaining blockchain infrastructure.…"
 apply_url: "https://web3vacancy.com/job/full-stack-engineer-blockchain-at-fireblocks-7837"
 layout: job

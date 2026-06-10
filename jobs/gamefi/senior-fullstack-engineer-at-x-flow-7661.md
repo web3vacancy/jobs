@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T08:04:33.169660+00:00"
-permalink: "/jobs/senior-fullstack-engineer-at-x-flow-7661/"
+permalink: "/senior-fullstack-engineer-at-x-flow-7661/"
 description: "Senior Fullstack Engineer at X-FLOW. Join X-FLOW as a Senior Fullstack Engineer and contribute to the development of innovative mobile games like Happy…"
 apply_url: "https://web3vacancy.com/job/senior-fullstack-engineer-at-x-flow-7661"
 layout: job

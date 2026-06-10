@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-08T12:31:58.115703+00:00"
-permalink: "/jobs/senior-android-developer-at-fp-markets-7890/"
+permalink: "/senior-android-developer-at-fp-markets-7890/"
 description: "Senior Android Developer at FP Markets. Join FP Markets as a Senior Android Developer and work on innovative financial instruments. Ideal candidates have…"
 apply_url: "https://web3vacancy.com/job/senior-android-developer-at-fp-markets-7890"
 layout: job

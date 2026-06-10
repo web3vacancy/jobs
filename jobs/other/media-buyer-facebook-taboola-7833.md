@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-07T11:56:10.590458+00:00"
-permalink: "/jobs/media-buyer-facebook-taboola-7833/"
+permalink: "/media-buyer-facebook-taboola-7833/"
 description: "Media Buyer Facebook / Taboola at Stealth Project. Join a team with over 10 years of experience in Facebook and 3 years in the crypto vertical. We are…"
 apply_url: "https://web3vacancy.com/job/media-buyer-facebook-taboola-7833"
 layout: job

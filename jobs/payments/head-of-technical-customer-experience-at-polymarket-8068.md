@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T20:50:22.678179+00:00"
-permalink: "/jobs/head-of-technical-customer-experience-at-polymarket-8068/"
+permalink: "/head-of-technical-customer-experience-at-polymarket-8068/"
 description: "Head of Technical Customer Experience at Polymarket. Join Polymarket as the Head of Technical Customer Experience to lead and transform the US support…"
 apply_url: "https://web3vacancy.com/job/head-of-technical-customer-experience-at-polymarket-8068"
 layout: job

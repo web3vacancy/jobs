@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$115,000–$195,500"
 employment_type: "full-time"
 date: "2026-06-06T10:26:44.073718+00:00"
-permalink: "/jobs/senior-full-stack-engineer-at-humansignal-7789/"
+permalink: "/senior-full-stack-engineer-at-humansignal-7789/"
 description: "Senior Full Stack Engineer at HumanSignal. Join HumanSignal as a Senior Full Stack Engineer to build end-to-end features across React/TypeScript and…"
 apply_url: "https://web3vacancy.com/job/senior-full-stack-engineer-at-humansignal-7789"
 layout: job

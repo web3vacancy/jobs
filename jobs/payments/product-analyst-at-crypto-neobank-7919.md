@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Up to $5,000"
 employment_type: "full-time"
 date: "2026-06-08T16:06:37.336015+00:00"
-permalink: "/jobs/product-analyst-at-crypto-neobank-7919/"
+permalink: "/product-analyst-at-crypto-neobank-7919/"
 description: "Product Analyst at Crypto Neobank. Join a crypto neobank as a Product Analyst, influencing product decisions through data and experiments. Remote position…"
 apply_url: "https://web3vacancy.com/job/product-analyst-at-crypto-neobank-7919"
 layout: job

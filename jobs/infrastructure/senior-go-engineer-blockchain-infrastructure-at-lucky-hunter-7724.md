@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$5,000–$7,000"
 employment_type: "full-time"
 date: "2026-06-05T17:05:27.684598+00:00"
-permalink: "/jobs/senior-go-engineer-blockchain-infrastructure-at-lucky-hunter-7724/"
+permalink: "/senior-go-engineer-blockchain-infrastructure-at-lucky-hunter-7724/"
 description: "Senior Go Engineer (Blockchain Infrastructure) at Lucky Hunter. Join Lucky Hunter as a Senior Go Engineer to work on blockchain infrastructure with a…"
 apply_url: "https://web3vacancy.com/job/senior-go-engineer-blockchain-infrastructure-at-lucky-hunter-7724"
 layout: job

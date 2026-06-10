@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-03T18:55:27.600454+00:00"
-permalink: "/jobs/security-analyst-at-aptoslabs-7533/"
+permalink: "/security-analyst-at-aptoslabs-7533/"
 description: "Security Analyst at Aptoslabs. Join Aptoslabs as a Security Analyst to enhance security operations in a remote-first environment. Ideal for candidates…"
 apply_url: "https://web3vacancy.com/job/security-analyst-at-aptoslabs-7533"
 layout: job

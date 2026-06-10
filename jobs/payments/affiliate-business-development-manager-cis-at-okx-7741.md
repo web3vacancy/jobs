@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$82,000–$138,000"
 employment_type: "full-time"
 date: "2026-06-05T19:37:54.994787+00:00"
-permalink: "/jobs/affiliate-business-development-manager-cis-at-okx-7741/"
+permalink: "/affiliate-business-development-manager-cis-at-okx-7741/"
 description: "Affiliate Business Development Manager, CIS at Okx. Join OKX as an Affiliate Business Development Manager to expand our affiliate network in the CIS…"
 apply_url: "https://web3vacancy.com/job/affiliate-business-development-manager-cis-at-okx-7741"
 layout: job

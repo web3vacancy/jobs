@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-29T08:04:52.240773+00:00"
-permalink: "/jobs/fullstack-developer-react-next-js-python-7084/"
+permalink: "/fullstack-developer-react-next-js-python-7084/"
 description: "Fullstack Developer (React / Next.js + Python) at Stealth Project. We are looking for a Fullstack Developer with strong skills in React, Next.js, and…"
 apply_url: "https://web3vacancy.com/job/fullstack-developer-react-next-js-python-7084"
 layout: job

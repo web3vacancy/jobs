@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-03T09:21:11.966846+00:00"
-permalink: "/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/"
+permalink: "/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/"
 description: "Blockchain Developer (Solidity + Web3 + MERN Stack) at AccuraSoft. AccuraSoft is seeking an experienced Blockchain Developer to work on DApps and smart…"
 apply_url: "https://web3vacancy.com/job/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481"
 layout: job

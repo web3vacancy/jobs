@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-09T14:40:18.657927+00:00"
-permalink: "/jobs/product-manager-director-vip-growth-and-operations-at-okx-8032/"
+permalink: "/product-manager-director-vip-growth-and-operations-at-okx-8032/"
 description: "Product Manager / Director, VIP Growth & Operations at OKX. Join OKX as a Product Manager/Director for VIP Growth & Operations, focusing on exclusive…"
 apply_url: "https://web3vacancy.com/job/product-manager-director-vip-growth-and-operations-at-okx-8032"
 layout: job

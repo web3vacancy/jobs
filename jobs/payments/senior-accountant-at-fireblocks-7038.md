@@ -5,7 +5,7 @@ location: "Office"
 salary: "$68,000–$112,000"
 employment_type: "full-time"
 date: "2026-05-28T17:22:18.601878+00:00"
-permalink: "/jobs/senior-accountant-at-fireblocks-7038/"
+permalink: "/senior-accountant-at-fireblocks-7038/"
 description: "Senior Accountant at Fireblocks. Join Fireblocks as a Senior Accountant in Singapore, where you'll manage accounting and financial reporting for APAC…"
 apply_url: "https://web3vacancy.com/job/senior-accountant-at-fireblocks-7038"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$1,000–$2,000"
 employment_type: "full-time"
 date: "2026-06-08T17:50:26.830925+00:00"
-permalink: "/jobs/financial-manager-crypto-processing-7938/"
+permalink: "/financial-manager-crypto-processing-7938/"
 description: "Financial Manager (Crypto Processing) at Stealth Project. We are developing a company in the field of crypto processing and looking for an experienced…"
 apply_url: "https://web3vacancy.com/job/financial-manager-crypto-processing-7938"
 layout: job

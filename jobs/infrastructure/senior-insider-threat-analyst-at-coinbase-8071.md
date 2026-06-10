@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$167,280–$196,800"
 employment_type: "full-time"
 date: "2026-06-10T02:53:39.498315+00:00"
-permalink: "/jobs/senior-insider-threat-analyst-at-coinbase-8071/"
+permalink: "/senior-insider-threat-analyst-at-coinbase-8071/"
 description: "Senior Insider Threat Analyst at Coinbase. Join Coinbase as a Senior Insider Threat Analyst to protect digital assets and customer trust. Lead…"
 apply_url: "https://web3vacancy.com/job/senior-insider-threat-analyst-at-coinbase-8071"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T09:03:07.489957+00:00"
-permalink: "/jobs/senior-backend-developer-at-galaxy-digital-8118/"
+permalink: "/senior-backend-developer-at-galaxy-digital-8118/"
 description: "Senior Backend Developer at Galaxy Digital. Join Galaxy Digital as a Senior Backend Developer to design and build backend systems for blockchain…"
 apply_url: "https://web3vacancy.com/job/senior-backend-developer-at-galaxy-digital-8118"
 layout: job

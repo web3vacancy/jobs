@@ -5,7 +5,7 @@ location: "Office"
 salary: "$60,000–$100,000"
 employment_type: "full-time"
 date: "2026-06-08T17:14:46.354455+00:00"
-permalink: "/jobs/software-engineer-steller-at-fireblocks-7935/"
+permalink: "/software-engineer-steller-at-fireblocks-7935/"
 description: "Software Engineer - Steller at Fireblocks. Join Fireblocks as a Software Engineer to build and maintain blockchain management platforms, focusing on…"
 apply_url: "https://web3vacancy.com/job/software-engineer-steller-at-fireblocks-7935"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-06T01:51:38.195978+00:00"
-permalink: "/jobs/go-to-market-operations-analyst-at-quicknode-7761/"
+permalink: "/go-to-market-operations-analyst-at-quicknode-7761/"
 description: "Go To Market Operations Analyst at QuickNode. Join QuickNode as a Go To Market Operations Analyst to optimize revenue systems and automate processes using…"
 apply_url: "https://web3vacancy.com/job/go-to-market-operations-analyst-at-quicknode-7761"
 layout: job

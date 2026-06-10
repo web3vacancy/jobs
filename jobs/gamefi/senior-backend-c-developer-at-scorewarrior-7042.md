@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-05-28T20:44:08.835014+00:00"
-permalink: "/jobs/senior-backend-c-developer-at-scorewarrior-7042/"
+permalink: "/senior-backend-c-developer-at-scorewarrior-7042/"
 description: "Senior Backend C++ Developer at Scorewarrior. Join Scorewarrior as a Senior Backend C++ Developer to work on key functionalities of their flagship game,…"
 apply_url: "https://web3vacancy.com/job/senior-backend-c-developer-at-scorewarrior-7042"
 layout: job

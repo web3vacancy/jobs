@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T08:59:59.197382+00:00"
-permalink: "/jobs/staff-senior-staff-engineer-kubernetes-at-okx-8111/"
+permalink: "/staff-senior-staff-engineer-kubernetes-at-okx-8111/"
 description: "Staff/Senior Staff Engineer, Kubernetes at OKX. Join OKX as a Staff/Senior Staff Engineer focusing on Kubernetes. Work on multi-cloud operations,…"
 apply_url: "https://web3vacancy.com/job/staff-senior-staff-engineer-kubernetes-at-okx-8111"
 layout: job

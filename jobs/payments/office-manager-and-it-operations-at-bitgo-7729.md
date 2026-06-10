@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:33:35.115002+00:00"
-permalink: "/jobs/office-manager-and-it-operations-at-bitgo-7729/"
+permalink: "/office-manager-and-it-operations-at-bitgo-7729/"
 description: "Office Manager and IT Operations at BitGo. BitGo is seeking an Office Manager to lead office operations and provide light IT support in Singapore. The…"
 apply_url: "https://web3vacancy.com/job/office-manager-and-it-operations-at-bitgo-7729"
 layout: job

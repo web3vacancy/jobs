@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
 date: "2026-06-04T22:17:54.886171+00:00"
-permalink: "/jobs/brokerage-operations-associate-i-acats-at-alpaca-7623/"
+permalink: "/brokerage-operations-associate-i-acats-at-alpaca-7623/"
 description: "Brokerage Operations Associate I - ACATS at Alpaca. Join Alpaca as a Brokerage Operations Associate I, focusing on ACATS transfers in a dynamic fintech…"
 apply_url: "https://web3vacancy.com/job/brokerage-operations-associate-i-acats-at-alpaca-7623"
 layout: job

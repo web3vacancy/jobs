@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$129,000–$304,000"
 employment_type: "full-time"
 date: "2026-05-29T23:42:32.792107+00:00"
-permalink: "/jobs/senior-software-engineer-data-products-at-chainlink-labs-7147/"
+permalink: "/senior-software-engineer-data-products-at-chainlink-labs-7147/"
 description: "Senior Software Engineer, Data Products at Chainlink Labs. Join Chainlink Labs as a Senior Software Engineer on the Data Products team, focusing on…"
 apply_url: "https://web3vacancy.com/job/senior-software-engineer-data-products-at-chainlink-labs-7147"
 layout: job

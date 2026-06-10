@@ -5,7 +5,7 @@ location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T15:09:46.537508+00:00"
-permalink: "/jobs/principal-senior-mobile-engineer-cex-at-okx-8157/"
+permalink: "/principal-senior-mobile-engineer-cex-at-okx-8157/"
 description: "Principal/Senior Mobile Engineer, CEX at OKX. Join OKX as a Principal/Senior Mobile Engineer to lead the development of trading market data features for…"
 apply_url: "https://web3vacancy.com/job/principal-senior-mobile-engineer-cex-at-okx-8157"
 layout: job

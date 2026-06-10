@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$82,000–$138,000"
 employment_type: "full-time"
 date: "2026-06-02T00:19:09.790679+00:00"
-permalink: "/jobs/fde-wonderful-ai-warszawa-at-bee-talents-7325/"
+permalink: "/fde-wonderful-ai-warszawa-at-bee-talents-7325/"
 description: "FDE | Wonderful.ai | Warszawa at Bee Talents. Join Wonderful.ai as a Forward Deployed Engineer in Warsaw. Work on AI agent implementations for enterprise…"
 apply_url: "https://web3vacancy.com/job/fde-wonderful-ai-warszawa-at-bee-talents-7325"
 layout: job

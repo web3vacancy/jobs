@@ -5,7 +5,7 @@ location: "Office"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-03T18:57:37.004660+00:00"
-permalink: "/jobs/salesforce-consultant-at-bpmcpa-7540/"
+permalink: "/salesforce-consultant-at-bpmcpa-7540/"
 description: "Salesforce Consultant at Bpmcpa. Join Bpmcpa as a Salesforce Consultant to help clients optimize their business processes using Salesforce technology.…"
 apply_url: "https://web3vacancy.com/job/salesforce-consultant-at-bpmcpa-7540"
 layout: job

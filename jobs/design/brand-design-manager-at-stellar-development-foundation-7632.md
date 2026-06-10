@@ -5,7 +5,7 @@ location: "Hybrid"
 salary: "$145,000–$215,000"
 employment_type: "full-time"
 date: "2026-06-04T22:21:46.044331+00:00"
-permalink: "/jobs/brand-design-manager-at-stellar-development-foundation-7632/"
+permalink: "/brand-design-manager-at-stellar-development-foundation-7632/"
 description: "Brand Design Manager at Stellar Development Foundation. Join Stellar Development Foundation as a Brand Design Manager to lead creative vision and…"
 apply_url: "https://web3vacancy.com/job/brand-design-manager-at-stellar-development-foundation-7632"
 layout: job

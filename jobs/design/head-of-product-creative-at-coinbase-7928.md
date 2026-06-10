@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$180,000–$300,000"
 employment_type: "full-time"
 date: "2026-06-08T17:11:55.753859+00:00"
-permalink: "/jobs/head-of-product-creative-at-coinbase-7928/"
+permalink: "/head-of-product-creative-at-coinbase-7928/"
 description: "Head of Product Creative at Coinbase. Join Coinbase as the Head of Product Creative to lead a multidisciplinary team shaping the visual storytelling of…"
 apply_url: "https://web3vacancy.com/job/head-of-product-creative-at-coinbase-7928"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$75,000–$125,000"
 employment_type: "full-time"
 date: "2026-06-09T17:26:19.464387+00:00"
-permalink: "/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"
+permalink: "/regional-institutional-manager-latin-america-at-anchorage-8045/"
 description: "Regional Institutional Manager, Latin America at Anchorage. Join Anchorage as a Regional Institutional Manager to drive growth in Latin America by…"
 apply_url: "https://web3vacancy.com/job/regional-institutional-manager-latin-america-at-anchorage-8045"
 layout: job

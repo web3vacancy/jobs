@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$120,000–$147,000"
 employment_type: "full-time"
 date: "2026-06-08T14:51:19.746152+00:00"
-permalink: "/jobs/security-engineer-data-centers-engineering-manager-at-galaxy-parity-7911/"
+permalink: "/security-engineer-data-centers-engineering-manager-at-galaxy-parity-7911/"
 description: "Security Engineer (Data Centers) / Engineering Manager at Galaxy / Parity. Galaxy is a global leader in digital assets and data center infrastructure.…"
 apply_url: "https://web3vacancy.com/job/security-engineer-data-centers-engineering-manager-at-galaxy-parity-7911"
 layout: job

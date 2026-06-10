@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$135,000–$225,000"
 employment_type: "full-time"
 date: "2026-06-08T17:12:33.561415+00:00"
-permalink: "/jobs/staff-product-designer-advanced-trade-at-coinbase-7930/"
+permalink: "/staff-product-designer-advanced-trade-at-coinbase-7930/"
 description: "Staff Product Designer - Advanced Trade at Coinbase. Join Coinbase as a Staff Product Designer to shape advanced trading experiences. Drive high-impact…"
 apply_url: "https://web3vacancy.com/job/staff-product-designer-advanced-trade-at-coinbase-7930"
 layout: job

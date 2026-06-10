@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-01T14:00:24.085150+00:00"
-permalink: "/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"
+permalink: "/international-accountant-finance-operations-specialist-at-emcd-7311/"
 description: "International Accountant / Finance Operations Specialist at EMCD. EMCD is looking for an International Accountant / Finance Operations Specialist to…"
 apply_url: "https://web3vacancy.com/job/international-accountant-finance-operations-specialist-at-emcd-7311"
 layout: job

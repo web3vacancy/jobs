@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T19:45:58.593274+00:00"
-permalink: "/jobs/senior-developer-relations-canton-at-openzeppelin-7750/"
+permalink: "/senior-developer-relations-canton-at-openzeppelin-7750/"
 description: "Senior Developer Relations, Canton at OpenZeppelin. Join OpenZeppelin as a Senior Developer Relations for Canton, focusing on developer adoption of our…"
 apply_url: "https://web3vacancy.com/job/senior-developer-relations-canton-at-openzeppelin-7750"
 layout: job

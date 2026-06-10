@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-10T09:02:07.397501+00:00"
-permalink: "/jobs/senior-finance-associate-at-crypto-com-8115/"
+permalink: "/senior-finance-associate-at-crypto-com-8115/"
 description: "Senior Finance Associate at Crypto.com. Join Crypto.com as a Senior Finance Associate to optimize global finance initiatives in a dynamic remote…"
 apply_url: "https://web3vacancy.com/job/senior-finance-associate-at-crypto-com-8115"
 layout: job

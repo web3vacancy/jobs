@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$90,000–$160,000"
 employment_type: "full-time"
 date: "2026-05-29T14:32:47.239233+00:00"
-permalink: "/jobs/senior-full-stack-engineer-frontend-developer-senior-software-engineer-7126/"
+permalink: "/senior-full-stack-engineer-frontend-developer-senior-software-engineer-7126/"
 description: "Senior Full Stack Engineer, Frontend Developer, Senior Software Engineer at Stealth Project. Multiple positions available: Senior Full Stack Engineer,…"
 apply_url: "https://web3vacancy.com/job/senior-full-stack-engineer-frontend-developer-senior-software-engineer-7126"
 layout: job

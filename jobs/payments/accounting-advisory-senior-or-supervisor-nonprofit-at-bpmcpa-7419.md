@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$90,000–$150,000"
 employment_type: "full-time"
 date: "2026-06-02T18:36:47.036085+00:00"
-permalink: "/jobs/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419/"
+permalink: "/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419/"
 description: "Accounting Advisory Senior or Supervisor - Nonprofit at Bpmcpa. Join BPM as an Accounting Advisory Senior/Supervisor to support nonprofit clients with…"
 apply_url: "https://web3vacancy.com/job/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419"
 layout: job

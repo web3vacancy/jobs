@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-05T01:30:46.965673+00:00"
-permalink: "/jobs/it-systems-engineer-at-tempo-7644/"
+permalink: "/it-systems-engineer-at-tempo-7644/"
 description: "IT Systems Engineer at Tempo. Tempo is seeking an IT Systems Engineer to build and manage corporate IT infrastructure, focusing on identity, device…"
 apply_url: "https://web3vacancy.com/job/it-systems-engineer-at-tempo-7644"
 layout: job

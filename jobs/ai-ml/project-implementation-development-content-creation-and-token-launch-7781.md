@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "part-time"
 date: "2026-06-06T10:00:15.633564+00:00"
-permalink: "/jobs/project-implementation-development-content-creation-and-token-launch-7781/"
+permalink: "/project-implementation-development-content-creation-and-token-launch-7781/"
 description: "Project Implementation: Development, Content Creation, and Token Launch at Stealth Project. We offer comprehensive project implementation services,…"
 apply_url: "https://web3vacancy.com/job/project-implementation-development-content-creation-and-token-launch-7781"
 layout: job

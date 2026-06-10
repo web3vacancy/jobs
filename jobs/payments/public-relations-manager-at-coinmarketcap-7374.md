@@ -5,7 +5,7 @@ location: "Remote"
 salary: "$86,250–$138,000"
 employment_type: "full-time"
 date: "2026-06-02T09:35:01.006399+00:00"
-permalink: "/jobs/public-relations-manager-at-coinmarketcap-7374/"
+permalink: "/public-relations-manager-at-coinmarketcap-7374/"
 description: "Public Relations Manager at CoinMarketCap. Join CoinMarketCap as a Public Relations Manager to shape our brand narrative and engage with our audience.…"
 apply_url: "https://web3vacancy.com/job/public-relations-manager-at-coinmarketcap-7374"
 layout: job

@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
 date: "2026-06-04T13:20:55.114684+00:00"
-permalink: "/jobs/regional-manager-customer-success-at-elliptic-7606/"
+permalink: "/regional-manager-customer-success-at-elliptic-7606/"
 description: "Regional Manager, Customer Success at Elliptic. Join Elliptic as a Regional Manager of Customer Success to lead a team of CSMs, drive strategy, and ensure…"
 apply_url: "https://web3vacancy.com/job/regional-manager-customer-success-at-elliptic-7606"
 layout: job

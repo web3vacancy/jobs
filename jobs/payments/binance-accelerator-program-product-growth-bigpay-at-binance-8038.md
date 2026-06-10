@@ -5,7 +5,7 @@ location: "Remote"
 salary: "Competitive"
 employment_type: "internship"
 date: "2026-06-09T14:43:39.876187+00:00"
-permalink: "/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"
+permalink: "/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"
 description: "Binance Accelerator Program - Product Growth (BigPay) at Binance. Join Binance's Accelerator Program as a Product Growth intern to gain hands-on…"
 apply_url: "https://web3vacancy.com/job/binance-accelerator-program-product-growth-bigpay-at-binance-8038"
 layout: job

@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-270 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+271 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 35
+### DeFi · 36
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -12,6 +12,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Associate - Listings & Ecosystem Development](https://web3vacancy.github.io/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/) | BitGo | $100,000–$125,000 |
 | [Assurance Senior (Blockchain)](https://web3vacancy.github.io/jobs/assurance-senior-blockchain-at-bpmcpa-7737/) | Bpmcpa | $68,000–$112,000 |
 | [BD Manager](https://web3vacancy.github.io/jobs/bd-manager-at-nda-7104/) | NDA | — |
+| [BE Engineer with Exchange Experience](https://web3vacancy.github.io/jobs/be-engineer-with-exchange-experience-at-vdex-8185/) | VDEX | — |
 | [Blockchain / Web3 Software Engineer](https://web3vacancy.github.io/jobs/blockchain-web3-software-engineer-7605/) | Stealth Project | — |
 | [Blockchain Developer, Smart Contract Engineer](https://web3vacancy.github.io/jobs/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/) | Axiom Chain | — |
 | [Capital Markets Lead](https://web3vacancy.github.io/jobs/capital-markets-lead-at-stellar-development-foundation-7429/) | Stellar Development Foundation | $160,000–$240,000 |

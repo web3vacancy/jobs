@@ -6,14 +6,15 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>270 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>271 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (35)</h2>
+<h2>DeFi (36)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
 <li><a href="/jobs/assurance-senior-blockchain-at-bpmcpa-7737/"><span>Assurance Senior (Blockchain) <span class="co">Bpmcpa</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/bd-manager-at-nda-7104/"><span>BD Manager <span class="co">NDA</span></span></a></li>
+<li><a href="/jobs/be-engineer-with-exchange-experience-at-vdex-8185/"><span>BE Engineer with Exchange Experience <span class="co">VDEX</span></span></a></li>
 <li><a href="/jobs/blockchain-web3-software-engineer-7605/"><span>Blockchain / Web3 Software Engineer <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/jobs/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/"><span>Blockchain Developer, Smart Contract Engineer <span class="co">Axiom Chain</span></span></a></li>
 <li><a href="/jobs/capital-markets-lead-at-stellar-development-foundation-7429/"><span>Capital Markets Lead <span class="co">Stellar Development Foundation</span></span><span class="pay">$160,000–$240,000</span></a></li>

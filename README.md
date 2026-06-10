@@ -97,8 +97,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 - [Frontend Developer at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-7232/)
 - [Frontend Developer (React / Next.js) at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/)
 - [Frontend Developer (Vue.js / Quasar) at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/)
-- [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) — $63,000–$83,000
 - [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) — $82,000–$138,000
+- [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) — $63,000–$83,000
 - [Fullstack PHP + Vue.js Developer at Magnit](/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/)
 - [Growth Marketing Manager at Stealth Project](/web3vacancy-jobs/jobs/growth-marketing-manager-7820/)
 - [Head of Promoters at Hattori](/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/) — $400–$2,000
@@ -302,8 +302,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 - [Customer Support Manager at Coinme](/web3vacancy-jobs/jobs/customer-support-manager-at-coinme-7610/)
 - [Cybersecurity Engineer at Localcoin](/web3vacancy-jobs/jobs/cybersecurity-engineer-at-localcoin-7549/) — $100,000–$150,000
 - [Data Leader at Coins.ph](/web3vacancy-jobs/jobs/data-leader-at-coins-ph-7513/)
-- [Derivatives Sales Associate at Coinbase](/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-7978/) — $137,000–$137,000
 - [Derivatives Sales Associate at Coinbase](/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-8052/) — $68,000–$112,000
+- [Derivatives Sales Associate at Coinbase](/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-7978/) — $137,000–$137,000
 - [DevOps Engineer Middle/Middle+ at Tria Finance](/web3vacancy-jobs/jobs/devops-engineer-middle-middle-at-tria-finance-7116/)
 - [Director of Engineering, Trading at Alpaca](/web3vacancy-jobs/jobs/director-of-engineering-trading-at-alpaca-7201/) — $150,000–$250,000
 - [Director of Finance at Merkle Science](/web3vacancy-jobs/jobs/director-of-finance-at-merkle-science-7438/)

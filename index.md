@@ -101,8 +101,8 @@ permalink: /
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-7232/"><span>Frontend Developer <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/"><span>Frontend Developer (React / Next.js) <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/"><span>Frontend Developer (Vue.js / Quasar) <span class="co">Stealth Project</span></span></a></li>
-<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
+<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/"><span>Fullstack PHP + Vue.js Developer <span class="co">Magnit</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/growth-marketing-manager-7820/"><span>Growth Marketing Manager <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/"><span>Head of Promoters <span class="co">Hattori</span></span><span class="pay">$400–$2,000</span></a></li>
@@ -306,8 +306,8 @@ permalink: /
 <li><a href="/web3vacancy-jobs/jobs/customer-support-manager-at-coinme-7610/"><span>Customer Support Manager <span class="co">Coinme</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
+<li><a href="/web3vacancy-jobs/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/devops-engineer-middle-middle-at-tria-finance-7116/"><span>DevOps Engineer Middle/Middle+ <span class="co">Tria Finance</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>

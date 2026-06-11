@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>254 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>253 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (34)</h2>
 <ul class="jobs">
@@ -107,7 +107,7 @@ permalink: /
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 </ul>
-<h2>AI / ML (28)</h2>
+<h2>AI / ML (27)</h2>
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
@@ -128,7 +128,6 @@ permalink: /
 <li><a href="/jobs/protocol-director-at-galaxy-digital-8179/"><span>Protocol Director <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/senior-ai-tokenomics-analyst-at-8blocks-io-7411/"><span>Senior AI / Tokenomics Analyst <span class="co">8blocks.io</span></span></a></li>
 <li><a href="/jobs/senior-backend-developer-at-galaxy-digital-8118/"><span>Senior Backend Developer <span class="co">Galaxy Digital</span></span></a></li>
-<li><a href="/jobs/senior-site-reliability-engineer-observability-at-chainlink-labs-7148/"><span>Senior Site Reliability Engineer, Observability <span class="co">Chainlink Labs</span></span><span class="pay">$129,000–$304,000</span></a></li>
 <li><a href="/jobs/software-engineer-ai-coding-expert-at-amber-group-7158/"><span>Software Engineer (AI Coding Expert) <span class="co">Amber Group</span></span></a></li>
 <li><a href="/jobs/software-engineer-data-growth-at-chainlink-labs-7298/"><span>Software Engineer, Data Growth <span class="co">Chainlink Labs</span></span></a></li>
 <li><a href="/jobs/staff-ml-risk-analytics-at-coinbase-7929/"><span>Staff ML Risk Analytics <span class="co">Coinbase</span></span><span class="pay">$98,000–$162,000</span></a></li>
@@ -159,8 +158,8 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>

@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-254 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+253 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 34
 
@@ -107,7 +107,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
 
-### AI / ML · 28
+### AI / ML · 27
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -130,7 +130,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Protocol Director](https://web3vacancy.github.io/jobs/protocol-director-at-galaxy-digital-8179/) | Galaxy Digital | — |
 | [Senior AI / Tokenomics Analyst](https://web3vacancy.github.io/jobs/senior-ai-tokenomics-analyst-at-8blocks-io-7411/) | 8blocks.io | — |
 | [Senior Backend Developer](https://web3vacancy.github.io/jobs/senior-backend-developer-at-galaxy-digital-8118/) | Galaxy Digital | — |
-| [Senior Site Reliability Engineer, Observability](https://web3vacancy.github.io/jobs/senior-site-reliability-engineer-observability-at-chainlink-labs-7148/) | Chainlink Labs | $129,000–$304,000 |
 | [Software Engineer (AI Coding Expert)](https://web3vacancy.github.io/jobs/software-engineer-ai-coding-expert-at-amber-group-7158/) | Amber Group | — |
 | [Software Engineer, Data Growth](https://web3vacancy.github.io/jobs/software-engineer-data-growth-at-chainlink-labs-7298/) | Chainlink Labs | — |
 | [Staff ML Risk Analytics](https://web3vacancy.github.io/jobs/staff-ml-risk-analytics-at-coinbase-7929/) | Coinbase | $98,000–$162,000 |
@@ -165,8 +164,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |

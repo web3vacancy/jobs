@@ -146,8 +146,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
 | [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
+| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
 | [Assistant Manager, Performance Marketing](https://web3vacancy.github.io/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/) | Delta Exchange | — |
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |
@@ -163,8 +163,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |
 | [Director of Research](https://web3vacancy.github.io/jobs/director-of-research-at-stellar-development-foundation-7425/) | Stellar Development Foundation | $210,000–$365,000 |
@@ -217,8 +217,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Sales Lead/ Director, Prediction & Digital Asset Markets](https://web3vacancy.github.io/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/) | Crypto.com | $225,000–$300,000 |
 | [Security Architect](https://web3vacancy.github.io/jobs/security-architect-at-blockstream-8078/) | Blockstream | — |
 | [Senior Backend Engineer](https://web3vacancy.github.io/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/) | Stellar Development Foundation | $185,000–$275,000 |
-| [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/) | Fireblocks | $135,000–$225,000 |
 | [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/) | Fireblocks | $135,000–$225,000 |
+| [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/) | Fireblocks | $135,000–$225,000 |
 | [Senior Business Development Director, Americas](https://web3vacancy.github.io/jobs/senior-business-development-director-americas-at-circle-7331/) | Circle | $245,000–$307,500 |
 | [Senior Compliance Associate](https://web3vacancy.github.io/jobs/senior-compliance-associate-at-figure-7714/) | Figure | $74,800–$112,200 |
 | [Senior CRM MarTech Manager](https://web3vacancy.github.io/jobs/senior-crm-martech-manager-at-crypto-com-7901/) | Crypto.com | — |
@@ -238,9 +238,9 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Transaction Monitoring & Risk Analyst](https://web3vacancy.github.io/jobs/senior-transaction-monitoring-and-risk-analyst-at-cryptobot-7363/) | CryptoBot | — |
 | [Senior VIP Relationship Manager](https://web3vacancy.github.io/jobs/senior-vip-relationship-manager-at-kraken-7514/) | Kraken | — |
 | [Senior/Staff Product Manager, Token Listing](https://web3vacancy.github.io/jobs/senior-staff-product-manager-token-listing-at-okx-7638/) | OKX | — |
-| [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-bitgo-7734/) | BitGo | — |
 | [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-bitgo-8193/) | BitGo | — |
 | [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-polymarket-7744/) | Polymarket | — |
+| [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-bitgo-7734/) | BitGo | — |
 | [Sr. Data Analyst, Product](https://web3vacancy.github.io/jobs/sr-data-analyst-product-at-kraken-7708/) | Kraken | — |
 | [Staff Software Engineer - MetaMask (Money Movement)](https://web3vacancy.github.io/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/) | Consensys | $146,000–$218,000 |
 | [Staff Software Engineer (Platform - FinEng)](https://web3vacancy.github.io/jobs/staff-software-engineer-platform-fineng-at-coinbase-8312/) | Coinbase | $135,000–$225,000 |

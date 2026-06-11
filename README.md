@@ -179,8 +179,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Research](https://web3vacancy.github.io/jobs/director-of-research-at-stellar-development-foundation-7425/) | Stellar Development Foundation | $210,000–$365,000 |
@@ -268,8 +268,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 3

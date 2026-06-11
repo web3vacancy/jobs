@@ -117,8 +117,8 @@ permalink: /
 <li><a href="/jobs/ai-platform-engineer-at-0g-labs-7157/"><span>AI Platform Engineer <span class="co">0G Labs</span></span></a></li>
 <li><a href="/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/"><span>Associate Counsel, Data Centers <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
-<li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7421/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7554/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span></a></li>
+<li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7421/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/data-engineer-at-elliptic-8067/"><span>Data Engineer <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/data-scientist-search-and-recommendation-at-binance-7977/"><span>Data Scientist (Search &amp; Recommendation) <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981/"><span>Director, Senior Developer Experience (DevEx) Engineer <span class="co">Galaxy Digital</span></span></a></li>
@@ -161,8 +161,8 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>
@@ -250,8 +250,8 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-evercode-lab-7348/"><span>Technical Project Manager <span class="co">Evercode Lab</span></span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/ux-writer-accelerator-program-at-binance-7608/"><span>UX Writer (Accelerator Program) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
 <li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
+<li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
 <li><a href="/jobs/vp-finance-bastion-at-bastion-7954/"><span>VP Finance - Bastion <span class="co">Bastion</span></span></a></li>
 </ul>
 <h2>Exchange / Trading (3)</h2>

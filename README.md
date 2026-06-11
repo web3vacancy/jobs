@@ -119,8 +119,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
 | [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |
-| [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7421/) | Fireblocks | $75,000–$125,000 |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7554/) | Fireblocks | — |
+| [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7421/) | Fireblocks | $75,000–$125,000 |
 | [Data Engineer](https://web3vacancy.github.io/jobs/data-engineer-at-elliptic-8067/) | Elliptic | — |
 | [Data Scientist (Search & Recommendation)](https://web3vacancy.github.io/jobs/data-scientist-search-and-recommendation-at-binance-7977/) | Binance | — |
 | [Director, Senior Developer Experience (DevEx) Engineer](https://web3vacancy.github.io/jobs/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981/) | Galaxy Digital | — |
@@ -167,8 +167,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |
@@ -256,8 +256,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 3

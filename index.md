@@ -101,8 +101,8 @@ permalink: /
 <li><a href="/jobs/social-media-manager-base-at-base-8040/"><span>Social Media Manager - Base <span class="co">Base</span></span></a></li>
 <li><a href="/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/"><span>Software Development Engineer in Test <span class="co">Cardano Foundation</span></span></a></li>
 <li><a href="/jobs/software-engineer-at-arkham-7453/"><span>Software Engineer <span class="co">Arkham</span></span></a></li>
-<li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7836/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span></a></li>
+<li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7936/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>

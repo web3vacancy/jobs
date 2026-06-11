@@ -101,8 +101,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Social Media Manager - Base](https://web3vacancy.github.io/jobs/social-media-manager-base-at-base-8040/) | Base | — |
 | [Software Development Engineer in Test](https://web3vacancy.github.io/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/) | Cardano Foundation | — |
 | [Software Engineer](https://web3vacancy.github.io/jobs/software-engineer-at-arkham-7453/) | Arkham | — |
-| [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7836/) | Fireblocks | — |
+| [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7936/) | Fireblocks | $60,000–$100,000 |
 | [Staff Software Engineer - MetaMask (Money Movement)](https://web3vacancy.github.io/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/) | Consensys | $135,000–$225,000 |
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |

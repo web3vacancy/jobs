@@ -92,8 +92,8 @@ permalink: /
 <li><a href="/jobs/social-media-manager-base-at-base-8040/"><span>Social Media Manager - Base <span class="co">Base</span></span></a></li>
 <li><a href="/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/"><span>Software Development Engineer in Test <span class="co">Cardano Foundation</span></span></a></li>
 <li><a href="/jobs/software-engineer-at-arkham-7453/"><span>Software Engineer <span class="co">Arkham</span></span></a></li>
-<li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7836/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span></a></li>
+<li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7936/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/"><span>Staff DevOps Engineer - Alchemy <span class="co">Alchemy</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$135,000–$225,000</span></a></li>
@@ -243,8 +243,8 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-evercode-lab-7348/"><span>Technical Project Manager <span class="co">Evercode Lab</span></span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/ux-writer-accelerator-program-at-binance-7608/"><span>UX Writer (Accelerator Program) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
+<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vp-finance-bastion-at-bastion-7954/"><span>VP Finance - Bastion <span class="co">Bastion</span></span></a></li>
 </ul>
 <h2>Exchange / Trading (3)</h2>

@@ -113,8 +113,8 @@ permalink: /
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
-<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7609/"><span>AI Operations Specialist <span class="co">CoinMarketCap</span></span></a></li>
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
+<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7609/"><span>AI Operations Specialist <span class="co">CoinMarketCap</span></span></a></li>
 <li><a href="/jobs/ai-platform-engineer-at-0g-labs-7157/"><span>AI Platform Engineer <span class="co">0G Labs</span></span></a></li>
 <li><a href="/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/"><span>Associate Counsel, Data Centers <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
@@ -199,8 +199,8 @@ permalink: /
 <li><a href="/jobs/privacy-manager-at-bitgo-7611/"><span>Privacy Manager <span class="co">BitGo</span></span><span class="pay">$140,000–$165,000</span></a></li>
 <li><a href="/jobs/product-analyst-at-crypto-neobank-7919/"><span>Product Analyst <span class="co">Crypto Neobank</span></span><span class="pay">Up to $5,000</span></a></li>
 <li><a href="/jobs/product-manager-at-skailer-7912/"><span>Product Manager <span class="co">Skailer</span></span></a></li>
-<li><a href="/jobs/product-manager-at-atlasora-7323/"><span>Product Manager <span class="co">AtlasOra</span></span><span class="pay">$60,000–$120,000</span></a></li>
 <li><a href="/jobs/product-manager-at-satoshilabs-7295/"><span>Product Manager <span class="co">SatoshiLabs</span></span></a></li>
+<li><a href="/jobs/product-manager-at-atlasora-7323/"><span>Product Manager <span class="co">AtlasOra</span></span><span class="pay">$60,000–$120,000</span></a></li>
 <li><a href="/jobs/product-manager-elliptic-at-elliptic-8075/"><span>Product Manager - Elliptic <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/product-manager-ledger-and-reporting-at-bvnk-7906/"><span>Product Manager - Ledger &amp; Reporting <span class="co">Bvnk</span></span></a></li>
 <li><a href="/jobs/product-manager-security-operations-at-binance-8156/"><span>Product Manager - Security Operations <span class="co">Binance</span></span></a></li>

@@ -115,8 +115,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | :-- | :-- | :-- |
 | [AI Engineer - Crypto Finance](https://web3vacancy.github.io/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/) | Crypto Finance | — |
 | [AI Enterprise BD Lead](https://web3vacancy.github.io/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/) | Douro Labs | — |
-| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7609/) | CoinMarketCap | — |
+| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
 | [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |

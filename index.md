@@ -172,8 +172,8 @@ permalink: /
 <li><a href="/jobs/finance-manager-at-yzi-labs-7344/"><span>Finance Manager <span class="co">YZi Labs</span></span><span class="pay">$120,000–$240,000</span></a></li>
 <li><a href="/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/"><span>Financial Crime &amp; Compliance Product Manager <span class="co">BVNK</span></span><span class="pay">$51,000–$85,000</span></a></li>
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
-<li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-blockstream-7140/"><span>General Counsel <span class="co">Blockstream</span></span></a></li>
+<li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
 <li><a href="/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/"><span>Group Product Manager, Core Infra and Reliability <span class="co">Coinbase</span></span><span class="pay">$243,865–$286,900</span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>

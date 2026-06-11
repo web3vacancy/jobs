@@ -178,8 +178,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Finance Manager](https://web3vacancy.github.io/jobs/finance-manager-at-yzi-labs-7344/) | YZi Labs | $120,000–$240,000 |
 | [Financial Crime & Compliance Product Manager](https://web3vacancy.github.io/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/) | BVNK | $51,000–$85,000 |
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
-| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-blockstream-7140/) | Blockstream | — |
+| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [Group Product Manager, Core Infra and Reliability](https://web3vacancy.github.io/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/) | Coinbase | $243,865–$286,900 |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |

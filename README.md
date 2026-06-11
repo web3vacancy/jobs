@@ -68,8 +68,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Engineering Manager, Developer Experience](https://web3vacancy.github.io/jobs/engineering-manager-developer-experience-at-chainlink-labs-7152/) | Chainlink Labs | $129,000–$304,000 |
 | [Engineering Manager, Transparency](https://web3vacancy.github.io/jobs/engineering-manager-transparency-at-anchorage-7925/) | Anchorage | $142,000–$238,000 |
 | [Events & Community Manager – Mexico](https://web3vacancy.github.io/jobs/events-and-community-manager-mexico-at-binance-7205/) | Binance | $90,000–$150,000 |
-| [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7630/) | Moonpay | $90,000–$150,000 |
 | [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7645/) | MoonPay | $100,000–$140,000 |
+| [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7630/) | Moonpay | $90,000–$150,000 |
 | [Full Stack Engineer, Blockchain](https://web3vacancy.github.io/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) | Fireblocks | $82,000–$138,000 |
 | [Full Stack Engineer, Blockchain](https://web3vacancy.github.io/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) | Fireblocks | $63,000–$83,000 |
 | [Head of Product](https://web3vacancy.github.io/jobs/head-of-product-at-celestia-8196/) | Celestia | — |

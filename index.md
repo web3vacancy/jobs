@@ -68,8 +68,8 @@ permalink: /
 <li><a href="/jobs/engineering-manager-developer-experience-at-chainlink-labs-7152/"><span>Engineering Manager, Developer Experience <span class="co">Chainlink Labs</span></span><span class="pay">$129,000–$304,000</span></a></li>
 <li><a href="/jobs/engineering-manager-transparency-at-anchorage-7925/"><span>Engineering Manager, Transparency <span class="co">Anchorage</span></span><span class="pay">$142,000–$238,000</span></a></li>
 <li><a href="/jobs/events-and-community-manager-mexico-at-binance-7205/"><span>Events &amp; Community Manager – Mexico <span class="co">Binance</span></span><span class="pay">$90,000–$150,000</span></a></li>
-<li><a href="/jobs/events-and-marketing-manager-at-moonpay-7630/"><span>Events &amp; Marketing Manager <span class="co">Moonpay</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7645/"><span>Events &amp; Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
+<li><a href="/jobs/events-and-marketing-manager-at-moonpay-7630/"><span>Events &amp; Marketing Manager <span class="co">Moonpay</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/jobs/head-of-product-at-celestia-8196/"><span>Head of Product <span class="co">Celestia</span></span></a></li>

@@ -231,9 +231,9 @@ permalink: /
 <li><a href="/jobs/senior-transaction-monitoring-and-risk-analyst-at-cryptobot-7363/"><span>Senior Transaction Monitoring &amp; Risk Analyst <span class="co">CryptoBot</span></span></a></li>
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-staff-product-manager-token-listing-at-okx-7638/"><span>Senior/Staff Product Manager, Token Listing <span class="co">OKX</span></span></a></li>
+<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
-<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/tech-lead-backend-fraud-at-bvnk-7434/"><span>Tech Lead (Backend): Fraud <span class="co">Bvnk</span></span></a></li>

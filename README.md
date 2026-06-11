@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-255 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+254 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 35
+### DeFi · 34
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -35,7 +35,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
 | [Senior People Operations Specialist / Affiliate Business Development Manager](https://web3vacancy.github.io/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/) | LI.FI / OKX | $60,000–$90,000 |
 | [Senior Software Engineer, Blockchain](https://web3vacancy.github.io/jobs/senior-software-engineer-blockchain-at-1inch-labs-7156/) | 1inch Labs | — |
-| [Senior Software Engineer, Data Products](https://web3vacancy.github.io/jobs/senior-software-engineer-data-products-at-chainlink-labs-7147/) | Chainlink Labs | $129,000–$304,000 |
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-injective-labs-7447/) | Injective Labs | — |
 | [Senior Technical Product Manager (Swap)](https://web3vacancy.github.io/jobs/senior-technical-product-manager-swap-at-1inch-7199/) | 1inch | — |
 | [Senior/Lead Product Manager](https://web3vacancy.github.io/jobs/senior-lead-product-manager-at-it-holding-7257/) | IT Holding | — |

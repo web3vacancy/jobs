@@ -197,8 +197,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [On-Chain Risk Strategy Manager](https://web3vacancy.github.io/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/) | Coins.ph | — |
 | [Partner Development Manager](https://web3vacancy.github.io/jobs/partner-development-manager-at-bvnk-7753/) | Bvnk | $130,000–$165,000 |
 | [Personal Manager](https://web3vacancy.github.io/jobs/personal-manager-at-cifra-markets-7882/) | Cifra Markets | — |
-| [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/) | Crypto.com | $120,000–$200,000 |
 | [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/) | Crypto.com | $120,000–$200,000 |
+| [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/) | Crypto.com | $120,000–$200,000 |
 | [Principal Product Manager, Growth](https://web3vacancy.github.io/jobs/principal-product-manager-growth-at-circle-7329/) | Circle | $200,000–$260,000 |
 | [Privacy Manager](https://web3vacancy.github.io/jobs/privacy-manager-at-bitgo-7611/) | BitGo | $140,000–$165,000 |
 | [Product Analyst](https://web3vacancy.github.io/jobs/product-analyst-at-crypto-neobank-7919/) | Crypto Neobank | Up to $5,000 |
@@ -253,8 +253,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 3

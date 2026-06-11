@@ -6,9 +6,9 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>251 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>250 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (33)</h2>
+<h2>DeFi (32)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -30,7 +30,6 @@ permalink: /
 <li><a href="/jobs/lead-product-manager-tokenization-at-bullish-8081/"><span>Lead Product Manager, Tokenization <span class="co">Bullish</span></span><span class="pay">$245,000–$285,000</span></a></li>
 <li><a href="/jobs/on-chain-quant-developer-at-bitmart-7646/"><span>On-chain Quant Developer <span class="co">BitMart</span></span></a></li>
 <li><a href="/jobs/paralegal-at-injective-labs-7443/"><span>Paralegal <span class="co">Injective Labs</span></span></a></li>
-<li><a href="/jobs/product-manager-data-feeds-at-chainlink-labs-7151/"><span>Product Manager, Data Feeds <span class="co">Chainlink Labs</span></span></a></li>
 <li><a href="/jobs/protocol-engineer-at-injective-labs-7446/"><span>Protocol Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/qa-engineer-at-injective-labs-8195/"><span>QA Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/senior-manager-defi-lending-growth-at-okx-7756/"><span>Senior Manager, DeFi Lending Growth <span class="co">OKX</span></span></a></li>
@@ -63,7 +62,6 @@ permalink: /
 <li><a href="/jobs/director-lifecycle-marketing-at-okx-7342/"><span>Director, Lifecycle Marketing <span class="co">OKX</span></span><span class="pay">$200,000–$300,000</span></a></li>
 <li><a href="/jobs/engineering-manager-at-parity-technologies-7607/"><span>Engineering Manager <span class="co">Parity Technologies</span></span></a></li>
 <li><a href="/jobs/engineering-manager-blockchain-at-anchorage-digital-7457/"><span>Engineering Manager, Blockchain <span class="co">Anchorage Digital</span></span></a></li>
-<li><a href="/jobs/engineering-manager-developer-experience-at-chainlink-labs-7152/"><span>Engineering Manager, Developer Experience <span class="co">Chainlink Labs</span></span><span class="pay">$129,000–$304,000</span></a></li>
 <li><a href="/jobs/engineering-manager-transparency-at-anchorage-7925/"><span>Engineering Manager, Transparency <span class="co">Anchorage</span></span><span class="pay">$142,000–$238,000</span></a></li>
 <li><a href="/jobs/events-and-community-manager-mexico-at-binance-7205/"><span>Events &amp; Community Manager – Mexico <span class="co">Binance</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7645/"><span>Events &amp; Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
@@ -102,6 +100,7 @@ permalink: /
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7836/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7936/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
+<li><a href="/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/"><span>Staff DevOps Engineer - Alchemy <span class="co">Alchemy</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
@@ -157,8 +156,8 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>

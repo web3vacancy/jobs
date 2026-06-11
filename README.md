@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-251 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+250 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 33
+### DeFi · 32
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -28,7 +28,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Lead Product Manager, Tokenization](https://web3vacancy.github.io/jobs/lead-product-manager-tokenization-at-bullish-8081/) | Bullish | $245,000–$285,000 |
 | [On-chain Quant Developer](https://web3vacancy.github.io/jobs/on-chain-quant-developer-at-bitmart-7646/) | BitMart | — |
 | [Paralegal](https://web3vacancy.github.io/jobs/paralegal-at-injective-labs-7443/) | Injective Labs | — |
-| [Product Manager, Data Feeds](https://web3vacancy.github.io/jobs/product-manager-data-feeds-at-chainlink-labs-7151/) | Chainlink Labs | — |
 | [Protocol Engineer](https://web3vacancy.github.io/jobs/protocol-engineer-at-injective-labs-7446/) | Injective Labs | — |
 | [QA Engineer](https://web3vacancy.github.io/jobs/qa-engineer-at-injective-labs-8195/) | Injective Labs | — |
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
@@ -63,7 +62,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Director, Lifecycle Marketing](https://web3vacancy.github.io/jobs/director-lifecycle-marketing-at-okx-7342/) | OKX | $200,000–$300,000 |
 | [Engineering Manager](https://web3vacancy.github.io/jobs/engineering-manager-at-parity-technologies-7607/) | Parity Technologies | — |
 | [Engineering Manager, Blockchain](https://web3vacancy.github.io/jobs/engineering-manager-blockchain-at-anchorage-digital-7457/) | Anchorage Digital | — |
-| [Engineering Manager, Developer Experience](https://web3vacancy.github.io/jobs/engineering-manager-developer-experience-at-chainlink-labs-7152/) | Chainlink Labs | $129,000–$304,000 |
 | [Engineering Manager, Transparency](https://web3vacancy.github.io/jobs/engineering-manager-transparency-at-anchorage-7925/) | Anchorage | $142,000–$238,000 |
 | [Events & Community Manager – Mexico](https://web3vacancy.github.io/jobs/events-and-community-manager-mexico-at-binance-7205/) | Binance | $90,000–$150,000 |
 | [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7645/) | MoonPay | $100,000–$140,000 |
@@ -102,6 +100,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7836/) | Fireblocks | — |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7936/) | Fireblocks | $60,000–$100,000 |
+| [Staff DevOps Engineer - Alchemy](https://web3vacancy.github.io/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/) | Alchemy | — |
 | [Staff Software Engineer - MetaMask (Money Movement)](https://web3vacancy.github.io/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/) | Consensys | $135,000–$225,000 |
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
@@ -163,8 +162,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |

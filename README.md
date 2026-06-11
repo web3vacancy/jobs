@@ -146,8 +146,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
 | [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
+| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
 | [Assistant Manager, Performance Marketing](https://web3vacancy.github.io/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/) | Delta Exchange | — |
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |

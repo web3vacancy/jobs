@@ -140,8 +140,8 @@ permalink: /
 </ul>
 <h2>Payments (107)</h2>
 <ul class="jobs">
-<li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>

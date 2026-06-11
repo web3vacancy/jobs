@@ -115,8 +115,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | :-- | :-- | :-- |
 | [AI Engineer - Crypto Finance](https://web3vacancy.github.io/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/) | Crypto Finance | — |
 | [AI Enterprise BD Lead](https://web3vacancy.github.io/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/) | Douro Labs | — |
-| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7609/) | CoinMarketCap | — |
+| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
 | [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |
@@ -178,8 +178,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Finance Manager](https://web3vacancy.github.io/jobs/finance-manager-at-yzi-labs-7344/) | YZi Labs | $120,000–$240,000 |
 | [Financial Crime & Compliance Product Manager](https://web3vacancy.github.io/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/) | BVNK | $51,000–$85,000 |
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
-| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-blockstream-7140/) | Blockstream | — |
+| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [Group Product Manager, Core Infra and Reliability](https://web3vacancy.github.io/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/) | Coinbase | $243,865–$286,900 |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |
@@ -256,8 +256,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 3

@@ -140,8 +140,8 @@ permalink: /
 </ul>
 <h2>Payments (107)</h2>
 <ul class="jobs">
-<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
@@ -205,8 +205,8 @@ permalink: /
 <li><a href="/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"><span>Regional Institutional Manager, Latin America <span class="co">Anchorage</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/regional-manager-customer-success-at-elliptic-7606/"><span>Regional Manager, Customer Success <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/sales-director-pensions-endowments-foundations-and-family-offices-at-bitgo-7733/"><span>Sales Director- Pensions, Endowments, Foundations, and Family Offices <span class="co">BitGo</span></span><span class="pay">$225,000–$275,000</span></a></li>
-<li><a href="/jobs/sales-engineer-at-fireblocks-7545/"><span>Sales Engineer <span class="co">Fireblocks</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/sales-engineer-at-fireblocks-7544/"><span>Sales Engineer <span class="co">Fireblocks</span></span><span class="pay">$90,000–$150,000</span></a></li>
+<li><a href="/jobs/sales-engineer-at-fireblocks-7545/"><span>Sales Engineer <span class="co">Fireblocks</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/sales-engineer-fireblocks-at-fireblocks-7433/"><span>Sales Engineer - Fireblocks <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/"><span>Sales Lead/ Director, Prediction &amp; Digital Asset Markets <span class="co">Crypto.com</span></span><span class="pay">$225,000–$300,000</span></a></li>
 <li><a href="/jobs/security-architect-at-blockstream-8078/"><span>Security Architect <span class="co">Blockstream</span></span></a></li>
@@ -244,8 +244,8 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-evercode-lab-7348/"><span>Technical Project Manager <span class="co">Evercode Lab</span></span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/ux-writer-accelerator-program-at-binance-7608/"><span>UX Writer (Accelerator Program) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
+<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vp-finance-bastion-at-bastion-7954/"><span>VP Finance - Bastion <span class="co">Bastion</span></span></a></li>
 </ul>
 <h2>Exchange / Trading (1)</h2>

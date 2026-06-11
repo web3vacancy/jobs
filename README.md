@@ -146,8 +146,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
 | [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
+| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
 | [Assistant Manager, Performance Marketing](https://web3vacancy.github.io/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/) | Delta Exchange | — |
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |
@@ -211,8 +211,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Regional Institutional Manager, Latin America](https://web3vacancy.github.io/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/) | Anchorage | $75,000–$125,000 |
 | [Regional Manager, Customer Success](https://web3vacancy.github.io/jobs/regional-manager-customer-success-at-elliptic-7606/) | Elliptic | — |
 | [Sales Director- Pensions, Endowments, Foundations, and Family Offices](https://web3vacancy.github.io/jobs/sales-director-pensions-endowments-foundations-and-family-offices-at-bitgo-7733/) | BitGo | $225,000–$275,000 |
-| [Sales Engineer](https://web3vacancy.github.io/jobs/sales-engineer-at-fireblocks-7545/) | Fireblocks | $90,000–$150,000 |
 | [Sales Engineer](https://web3vacancy.github.io/jobs/sales-engineer-at-fireblocks-7544/) | Fireblocks | $90,000–$150,000 |
+| [Sales Engineer](https://web3vacancy.github.io/jobs/sales-engineer-at-fireblocks-7545/) | Fireblocks | $90,000–$150,000 |
 | [Sales Engineer - Fireblocks](https://web3vacancy.github.io/jobs/sales-engineer-fireblocks-at-fireblocks-7433/) | Fireblocks | — |
 | [Sales Lead/ Director, Prediction & Digital Asset Markets](https://web3vacancy.github.io/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/) | Crypto.com | $225,000–$300,000 |
 | [Security Architect](https://web3vacancy.github.io/jobs/security-architect-at-blockstream-8078/) | Blockstream | — |
@@ -250,8 +250,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-evercode-lab-7348/) | Evercode Lab | — |
 | [User Growth & Lifecycle Marketing Manager](https://web3vacancy.github.io/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/) | Binance | — |
 | [UX Writer (Accelerator Program)](https://web3vacancy.github.io/jobs/ux-writer-accelerator-program-at-binance-7608/) | Binance | — |
-| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-labs-7950/) | Offchain Labs | — |
+| [Vice President of Marketing](https://web3vacancy.github.io/jobs/vice-president-of-marketing-at-offchain-8083/) | Offchain | $84,000–$150,000 |
 | [VP Finance - Bastion](https://web3vacancy.github.io/jobs/vp-finance-bastion-at-bastion-7954/) | Bastion | — |
 
 ### Exchange / Trading · 1

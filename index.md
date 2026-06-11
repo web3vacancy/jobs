@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>250 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>249 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (32)</h2>
 <ul class="jobs">
@@ -43,7 +43,7 @@ permalink: /
 <li><a href="/jobs/sr-product-manager-onchain-at-kraken-7547/"><span>Sr Product Manager, Onchain <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 </ul>
-<h2>Infrastructure (59)</h2>
+<h2>Infrastructure (58)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -55,7 +55,6 @@ permalink: /
 <li><a href="/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/"><span>Blockchain Developer (Solidity + Web3 + MERN Stack) <span class="co">AccuraSoft</span></span></a></li>
 <li><a href="/jobs/blockchain-investigator-at-anchain-ai-7161/"><span>Blockchain Investigator <span class="co">AnChain.AI</span></span></a></li>
 <li><a href="/jobs/business-developer-at-mirai-7867/"><span>Business Developer <span class="co">MIRAI</span></span></a></li>
-<li><a href="/jobs/business-development-interns-junior-bd-at-bitbase-global-inc-7155/"><span>Business Development Interns Junior BD <span class="co">Bitbase Global Inc</span></span><span class="pay">$12,000–$24,000</span></a></li>
 <li><a href="/jobs/client-engagement-api-specialist-at-kraken-8181/"><span>Client Engagement API Specialist <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/devops-site-reliability-engineer-at-okx-8112/"><span>DevOps / Site Reliability Engineer <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/"><span>Director of Site Reliability Engineering <span class="co">Stellar Development Foundation</span></span><span class="pay">$210,000–$310,000</span></a></li>
@@ -156,8 +155,8 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>

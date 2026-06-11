@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-250 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+249 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 32
 
@@ -41,7 +41,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Sr Product Manager, Onchain](https://web3vacancy.github.io/jobs/sr-product-manager-onchain-at-kraken-7547/) | Kraken | — |
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 
-### Infrastructure · 59
+### Infrastructure · 58
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -55,7 +55,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Blockchain Developer (Solidity + Web3 + MERN Stack)](https://web3vacancy.github.io/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/) | AccuraSoft | — |
 | [Blockchain Investigator](https://web3vacancy.github.io/jobs/blockchain-investigator-at-anchain-ai-7161/) | AnChain.AI | — |
 | [Business Developer](https://web3vacancy.github.io/jobs/business-developer-at-mirai-7867/) | MIRAI | — |
-| [Business Development Interns Junior BD](https://web3vacancy.github.io/jobs/business-development-interns-junior-bd-at-bitbase-global-inc-7155/) | Bitbase Global Inc | $12,000–$24,000 |
 | [Client Engagement API Specialist](https://web3vacancy.github.io/jobs/client-engagement-api-specialist-at-kraken-8181/) | Kraken | — |
 | [DevOps / Site Reliability Engineer](https://web3vacancy.github.io/jobs/devops-site-reliability-engineer-at-okx-8112/) | OKX | — |
 | [Director of Site Reliability Engineering](https://web3vacancy.github.io/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/) | Stellar Development Foundation | $210,000–$310,000 |
@@ -162,8 +161,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |

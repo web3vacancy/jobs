@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-249 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+248 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 32
+### DeFi · 31
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -32,7 +32,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [QA Engineer](https://web3vacancy.github.io/jobs/qa-engineer-at-injective-labs-8195/) | Injective Labs | — |
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
 | [Senior People Operations Specialist / Affiliate Business Development Manager](https://web3vacancy.github.io/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/) | LI.FI / OKX | $60,000–$90,000 |
-| [Senior Software Engineer, Blockchain](https://web3vacancy.github.io/jobs/senior-software-engineer-blockchain-at-1inch-labs-7156/) | 1inch Labs | — |
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-injective-labs-7447/) | Injective Labs | — |
 | [Senior Technical Product Manager (Swap)](https://web3vacancy.github.io/jobs/senior-technical-product-manager-swap-at-1inch-7199/) | 1inch | — |
 | [Senior/Lead Product Manager](https://web3vacancy.github.io/jobs/senior-lead-product-manager-at-it-holding-7257/) | IT Holding | — |
@@ -161,8 +160,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
-| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
+| [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Director of Engineering, Trading](https://web3vacancy.github.io/jobs/director-of-engineering-trading-at-alpaca-7201/) | Alpaca | $150,000–$250,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
 | [Director of Legal & Regulatory Affairs, APAC](https://web3vacancy.github.io/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/) | Mesh | — |

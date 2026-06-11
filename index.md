@@ -6,9 +6,9 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>253 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>251 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (34)</h2>
+<h2>DeFi (33)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -33,7 +33,6 @@ permalink: /
 <li><a href="/jobs/product-manager-data-feeds-at-chainlink-labs-7151/"><span>Product Manager, Data Feeds <span class="co">Chainlink Labs</span></span></a></li>
 <li><a href="/jobs/protocol-engineer-at-injective-labs-7446/"><span>Protocol Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/qa-engineer-at-injective-labs-8195/"><span>QA Engineer <span class="co">Injective Labs</span></span></a></li>
-<li><a href="/jobs/security-engineer-product-security-at-chainlink-labs-7150/"><span>Security Engineer, Product Security <span class="co">Chainlink Labs</span></span><span class="pay">$106,000–$260,000</span></a></li>
 <li><a href="/jobs/senior-manager-defi-lending-growth-at-okx-7756/"><span>Senior Manager, DeFi Lending Growth <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/"><span>Senior People Operations Specialist / Affiliate Business Development Manager <span class="co">LI.FI / OKX</span></span><span class="pay">$60,000–$90,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-blockchain-at-1inch-labs-7156/"><span>Senior Software Engineer, Blockchain <span class="co">1inch Labs</span></span></a></li>
@@ -158,8 +157,8 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/director-of-engineering-trading-at-alpaca-7201/"><span>Director of Engineering, Trading <span class="co">Alpaca</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>
@@ -234,9 +233,9 @@ permalink: /
 <li><a href="/jobs/senior-transaction-monitoring-and-risk-analyst-at-cryptobot-7363/"><span>Senior Transaction Monitoring &amp; Risk Analyst <span class="co">CryptoBot</span></span></a></li>
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-staff-product-manager-token-listing-at-okx-7638/"><span>Senior/Staff Product Manager, Token Listing <span class="co">OKX</span></span></a></li>
+<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
-<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/tech-lead-backend-fraud-at-bvnk-7434/"><span>Tech Lead (Backend): Fraud <span class="co">Bvnk</span></span></a></li>
@@ -245,8 +244,8 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-evercode-lab-7348/"><span>Technical Project Manager <span class="co">Evercode Lab</span></span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/ux-writer-accelerator-program-at-binance-7608/"><span>UX Writer (Accelerator Program) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
+<li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
 <li><a href="/jobs/vp-finance-bastion-at-bastion-7954/"><span>VP Finance - Bastion <span class="co">Bastion</span></span></a></li>
 </ul>
 <h2>Exchange / Trading (3)</h2>
@@ -255,14 +254,13 @@ permalink: /
 <li><a href="/jobs/sales-development-representative-growth-at-immutable-7213/"><span>Sales Development Representative (Growth) <span class="co">Immutable</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/sales-director-institutional-otc-at-ripple-7424/"><span>Sales Director - Institutional OTC <span class="co">Ripple</span></span><span class="pay">$105,000–$175,000</span></a></li>
 </ul>
-<h2>Security (8)</h2>
+<h2>Security (7)</h2>
 <ul class="jobs">
 <li><a href="/jobs/principal-security-architect-at-copperco-7543/"><span>Principal Security Architect <span class="co">Copperco</span></span><span class="pay">$128,000–$212,000</span></a></li>
 <li><a href="/jobs/security-analyst-at-aptoslabs-7533/"><span>Security Analyst <span class="co">Aptoslabs</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/security-engineer-blue-teamer-at-satoshilabs-7294/"><span>Security Engineer - Blue Teamer <span class="co">SatoshiLabs</span></span></a></li>
 <li><a href="/jobs/security-engineer-data-centers-engineering-manager-at-galaxy-parity-7911/"><span>Security Engineer (Data Centers) / Engineering Manager <span class="co">Galaxy / Parity</span></span><span class="pay">$120,000–$147,000</span></a></li>
 <li><a href="/jobs/security-operations-engineer-at-okx-8110/"><span>Security Operations Engineer <span class="co">OKX</span></span></a></li>
-<li><a href="/jobs/security-response-engineer-incident-response-at-chainlink-labs-7149/"><span>Security Response Engineer, Incident Response <span class="co">Chainlink Labs</span></span><span class="pay">$154,000–$360,000</span></a></li>
 <li><a href="/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/"><span>Senior Infrastructure Security Engineer <span class="co">Matter Labs</span></span></a></li>
 <li><a href="/jobs/senior-security-engineer-at-near-foundation-7408/"><span>Senior Security Engineer <span class="co">NEAR Foundation</span></span><span class="pay">$130,000–$180,000</span></a></li>
 </ul>

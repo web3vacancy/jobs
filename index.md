@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>236 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>235 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (33)</h2>
 <ul class="jobs">
@@ -44,11 +44,10 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (51)</h2>
+<h2>Infrastructure (50)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
-<li><a href="/jobs/asa-aso-manager-app-store-growth-at-gomining-7271/"><span>ASA / ASO Manager (App Store Growth) <span class="co">GoMining</span></span><span class="pay">$57,500–$97,750</span></a></li>
 <li><a href="/jobs/assurance-senior-blockchain-us-clients-at-bpmcpa-8047/"><span>Assurance Senior (Blockchain - US Clients) <span class="co">Bpmcpa</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428/"><span>Backend Engineer, Integrations &amp; APIs <span class="co">Stellar Development Foundation</span></span><span class="pay">$140,000–$210,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624/"><span>Binance Accelerator Program - Affiliate BD (Greater China) <span class="co">Binance</span></span><span class="pay">$142,000–$238,000</span></a></li>

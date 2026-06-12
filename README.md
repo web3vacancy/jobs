@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-236 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+235 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 33
 
@@ -42,13 +42,12 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 51
+### Infrastructure · 50
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
 | [Affiliate Relationship Manager - MENA](https://web3vacancy.github.io/jobs/affiliate-relationship-manager-mena-at-binance-8184/) | Binance | — |
 | [Application Architect, Java](https://web3vacancy.github.io/jobs/application-architect-java-at-okx-8033/) | OKX | — |
-| [ASA / ASO Manager (App Store Growth)](https://web3vacancy.github.io/jobs/asa-aso-manager-app-store-growth-at-gomining-7271/) | GoMining | $57,500–$97,750 |
 | [Assurance Senior (Blockchain - US Clients)](https://web3vacancy.github.io/jobs/assurance-senior-blockchain-us-clients-at-bpmcpa-8047/) | Bpmcpa | $68,000–$112,000 |
 | [Backend Engineer, Integrations & APIs](https://web3vacancy.github.io/jobs/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428/) | Stellar Development Foundation | $140,000–$210,000 |
 | [Binance Accelerator Program - Affiliate BD (Greater China)](https://web3vacancy.github.io/jobs/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624/) | Binance | $142,000–$238,000 |

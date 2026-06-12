@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-226 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+227 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 30
+### DeFi · 31
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -36,6 +36,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-injective-labs-7447/) | Injective Labs | — |
 | [Smart Contract Engineer](https://web3vacancy.github.io/jobs/smart-contract-engineer-at-category-labs-8200/) | Category Labs | $180,000–$250,000 |
 | [Sr Product Manager, Onchain](https://web3vacancy.github.io/jobs/sr-product-manager-onchain-at-kraken-7547/) | Kraken | — |
+| [Staff Engineer — Custody Platform](https://web3vacancy.github.io/jobs/staff-engineer-custody-platform-at-tria-finance-8355/) | Tria Finance | — |
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 

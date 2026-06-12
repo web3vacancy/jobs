@@ -6,9 +6,9 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>226 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>227 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (30)</h2>
+<h2>DeFi (31)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -38,6 +38,7 @@ permalink: /
 <li><a href="/jobs/senior-technical-product-manager-at-injective-labs-7447/"><span>Senior Technical Product Manager <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/smart-contract-engineer-at-category-labs-8200/"><span>Smart Contract Engineer <span class="co">Category Labs</span></span><span class="pay">$180,000–$250,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-onchain-at-kraken-7547/"><span>Sr Product Manager, Onchain <span class="co">Kraken</span></span></a></li>
+<li><a href="/jobs/staff-engineer-custody-platform-at-tria-finance-8355/"><span>Staff Engineer — Custody Platform <span class="co">Tria Finance</span></span></a></li>
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>

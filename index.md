@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>250 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>246 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (32)</h2>
 <ul class="jobs">
@@ -140,10 +140,10 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (107)</h2>
+<h2>Payments (105)</h2>
 <ul class="jobs">
-<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
@@ -152,15 +152,13 @@ permalink: /
 <li><a href="/jobs/client-executive-polymarket-at-polymarket-7743/"><span>Client Executive - Polymarket <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/compliance-analyst-at-bitgo-7730/"><span>Compliance Analyst <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/concierge-specialist-iv-at-coinbase-8237/"><span>Concierge Specialist IV <span class="co">Coinbase</span></span><span class="pay">$96,900–$96,900</span></a></li>
-<li><a href="/jobs/copywriter-at-international-payment-solutions-aggregator-8086/"><span>Copywriter <span class="co">International Payment Solutions Aggregator</span></span></a></li>
-<li><a href="/jobs/copywriter-at-international-payment-solutions-aggregator-8087/"><span>Copywriter <span class="co">International Payment Solutions Aggregator</span></span></a></li>
 <li><a href="/jobs/country-director-india-at-coinbase-8051/"><span>Country Director, India <span class="co">Coinbase</span></span><span class="pay">$98,800–$162,000</span></a></li>
 <li><a href="/jobs/crypto-trading-platform-engineer-at-rather-labs-7482/"><span>Crypto Trading Platform Engineer <span class="co">Rather Labs</span></span><span class="pay">$120,000–$120,000</span></a></li>
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
-<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
+<li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
 <li><a href="/jobs/director-of-legal-and-regulatory-affairs-apac-at-mesh-8242/"><span>Director of Legal &amp; Regulatory Affairs, APAC <span class="co">Mesh</span></span></a></li>
 <li><a href="/jobs/director-of-research-at-stellar-development-foundation-7425/"><span>Director of Research <span class="co">Stellar Development Foundation</span></span><span class="pay">$210,000–$365,000</span></a></li>
@@ -213,8 +211,8 @@ permalink: /
 <li><a href="/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/"><span>Sales Lead/ Director, Prediction &amp; Digital Asset Markets <span class="co">Crypto.com</span></span><span class="pay">$225,000–$300,000</span></a></li>
 <li><a href="/jobs/security-architect-at-blockstream-8078/"><span>Security Architect <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/"><span>Senior Backend Engineer <span class="co">Stellar Development Foundation</span></span><span class="pay">$185,000–$275,000</span></a></li>
-<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
+<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-business-development-director-americas-at-circle-7331/"><span>Senior Business Development Director, Americas <span class="co">Circle</span></span><span class="pay">$245,000–$307,500</span></a></li>
 <li><a href="/jobs/senior-compliance-associate-at-figure-7714/"><span>Senior Compliance Associate <span class="co">Figure</span></span><span class="pay">$74,800–$112,200</span></a></li>
 <li><a href="/jobs/senior-crm-martech-manager-at-crypto-com-7901/"><span>Senior CRM MarTech Manager <span class="co">Crypto.com</span></span></a></li>
@@ -275,12 +273,10 @@ permalink: /
 <li><a href="/jobs/senior-product-designer-consumer-blockchain-at-blockchain-8062/"><span>Senior Product Designer, Consumer - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/staff-product-designer-advanced-trade-at-coinbase-7930/"><span>Staff Product Designer - Advanced Trade <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
 </ul>
-<h2>Other (7)</h2>
+<h2>Other (5)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-7727/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/backend-java-engineer-at-binance-8165/"><span>Backend Java Engineer <span class="co">Binance</span></span><span class="pay">$112,000–$188,000</span></a></li>
-<li><a href="/jobs/copywriter-at-international-payment-solutions-aggregator-8084/"><span>Copywriter <span class="co">International Payment Solutions Aggregator</span></span></a></li>
-<li><a href="/jobs/copywriter-at-pgon-8085/"><span>Copywriter <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/crypto-futures-trader-at-pgon-7670/"><span>Crypto Futures Trader <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/senior-software-engineer-eaa-at-coinbase-8174/"><span>Senior Software Engineer (EAA) <span class="co">Coinbase</span></span><span class="pay">$105,000–$175,000</span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7926/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span><span class="pay">$120,000–$200,000</span></a></li>

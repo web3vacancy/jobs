@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-227 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+236 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 31
+### DeFi · 33
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -24,12 +24,14 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Growth Engineer / Integration Engineer](https://web3vacancy.github.io/jobs/growth-engineer-integration-engineer-at-injective-labs-7444/) | Injective Labs | — |
 | [Head of Ecosystem Growth](https://web3vacancy.github.io/jobs/head-of-ecosystem-growth-at-arbitrum-foundation-7455/) | Arbitrum Foundation | — |
 | [Head of Growth](https://web3vacancy.github.io/jobs/head-of-growth-at-vdex-7920/) | VDEX | — |
+| [Head of Marketing](https://web3vacancy.github.io/jobs/head-of-marketing-at-ether-fi-8364/) | ether.fi | — |
 | [Lead Product Manager, Tokenization](https://web3vacancy.github.io/jobs/lead-product-manager-tokenization-at-bullish-8081/) | Bullish | $245,000–$285,000 |
 | [Member of Technical Staff - Smart Contract](https://web3vacancy.github.io/jobs/member-of-technical-staff-smart-contract-at-galaxy-digital-8321/) | Galaxy Digital | $200,000–$250,000 |
 | [On-chain Quant Developer](https://web3vacancy.github.io/jobs/on-chain-quant-developer-at-bitmart-7646/) | BitMart | — |
 | [Paralegal](https://web3vacancy.github.io/jobs/paralegal-at-injective-labs-7443/) | Injective Labs | — |
 | [Protocol Engineer](https://web3vacancy.github.io/jobs/protocol-engineer-at-injective-labs-7446/) | Injective Labs | — |
 | [QA Engineer](https://web3vacancy.github.io/jobs/qa-engineer-at-injective-labs-8195/) | Injective Labs | — |
+| [Senior Blockchain Engineer](https://web3vacancy.github.io/jobs/senior-blockchain-engineer-at-useblocky-8368/) | UseBlocky | $250,000–$300,000 |
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
 | [Senior People Operations Specialist / Affiliate Business Development Manager](https://web3vacancy.github.io/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/) | LI.FI / OKX | $60,000–$90,000 |
 | [Senior Solutions Architect, Banking and Capital Markets](https://web3vacancy.github.io/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/) | Chainlink Labs | $125,000–$273,000 |
@@ -96,7 +98,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
 
-### AI / ML · 28
+### AI / ML · 29
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -126,6 +128,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Staff ML Risk Analytics](https://web3vacancy.github.io/jobs/staff-ml-risk-analytics-at-coinbase-7929/) | Coinbase | $98,000–$162,000 |
 | [Staff Software Engineer, Graphs](https://web3vacancy.github.io/jobs/staff-software-engineer-graphs-at-chainalysis-7752/) | Chainalysis | — |
 | [Strategic Partnerships Dealmaker](https://web3vacancy.github.io/jobs/strategic-partnerships-dealmaker-at-mysten-labs-7452/) | Mysten Labs | — |
+| [Talent Pool - Hut 8](https://web3vacancy.github.io/jobs/talent-pool-hut-8-at-hut-8-8359/) | Hut 8 | — |
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-galaxy-digital-7941/) | Galaxy Digital | — |
 | [VP, Senior Product Security Engineer](https://web3vacancy.github.io/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/) | Galaxy Digital | — |
 
@@ -136,7 +139,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 97
+### Payments · 103
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -154,6 +157,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [CTO - Crypto Mining & CTO - Crypto Wallet Platform](https://web3vacancy.github.io/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/) | EMCD | — |
 | [Cybersecurity Engineer](https://web3vacancy.github.io/jobs/cybersecurity-engineer-at-localcoin-7549/) | Localcoin | $100,000–$150,000 |
 | [Data Leader](https://web3vacancy.github.io/jobs/data-leader-at-coins-ph-7513/) | Coins.ph | — |
+| [Deputy Chief Regulatory Officer, Coinbase Derivatives](https://web3vacancy.github.io/jobs/deputy-chief-regulatory-officer-coinbase-derivatives-at-coinbase-8367/) | Coinbase | $179,520–$211,200 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-7978/) | Coinbase | $137,000–$137,000 |
 | [Derivatives Sales Associate](https://web3vacancy.github.io/jobs/derivatives-sales-associate-at-coinbase-8052/) | Coinbase | $68,000–$112,000 |
 | [Director of Finance](https://web3vacancy.github.io/jobs/director-of-finance-at-merkle-science-7438/) | Merkle Science | — |
@@ -168,8 +172,10 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
 | [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [Group Product Manager, Core Infra and Reliability](https://web3vacancy.github.io/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/) | Coinbase | $243,865–$286,900 |
+| [Growth Lead, Beacon Network](https://web3vacancy.github.io/jobs/growth-lead-beacon-network-at-trm-8365/) | TRM | — |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |
+| [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/) | Coins.ph | — |
 | [Head of Technical Customer Experience](https://web3vacancy.github.io/jobs/head-of-technical-customer-experience-at-polymarket-8068/) | Polymarket | — |
 | [Institutional Business Development Manager - Wintermute](https://web3vacancy.github.io/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/) | Wintermute | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
@@ -193,7 +199,9 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Manager / Director, VIP Growth & Operations](https://web3vacancy.github.io/jobs/product-manager-director-vip-growth-and-operations-at-okx-8032/) | OKX | — |
 | [Product Manager, Payments](https://web3vacancy.github.io/jobs/product-manager-payments-at-polymarket-7745/) | Polymarket | — |
 | [Product Marketing Manager, Prediction Markets](https://web3vacancy.github.io/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/) | Coinbase | $140,080–$164,800 |
+| [Product Operations Manager](https://web3vacancy.github.io/jobs/product-operations-manager-at-binance-8362/) | Binance | — |
 | [Public Relations Manager](https://web3vacancy.github.io/jobs/public-relations-manager-at-coinmarketcap-7374/) | CoinMarketCap | $86,250–$138,000 |
+| [Quantitative Researcher - Prediction Markets, Quant Trading](https://web3vacancy.github.io/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/) | Crypto.com | $100,000–$150,000 |
 | [Regional Institutional Manager, Latin America](https://web3vacancy.github.io/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/) | Anchorage | $75,000–$125,000 |
 | [Regional Manager, Customer Success](https://web3vacancy.github.io/jobs/regional-manager-customer-success-at-elliptic-7606/) | Elliptic | — |
 | [Sales Director- Pensions, Endowments, Foundations, and Family Offices](https://web3vacancy.github.io/jobs/sales-director-pensions-endowments-foundations-and-family-offices-at-bitgo-7733/) | BitGo | $225,000–$275,000 |
@@ -212,6 +220,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Events Marketing Manager](https://web3vacancy.github.io/jobs/senior-events-marketing-manager-at-stellar-development-foundation-7442/) | Stellar Development Foundation | $130,000–$200,000 |
 | [Senior Growth Manager, SEA](https://web3vacancy.github.io/jobs/senior-growth-manager-sea-at-okx-8034/) | OKX | — |
 | [Senior Java Developer (Exchange/Trading Platform)](https://web3vacancy.github.io/jobs/senior-java-developer-exchange-trading-platform-at-crypto-com-8158/) | Crypto.com | $120,000–$150,000 |
+| [Senior Legal Counsel - Crypto Finance](https://web3vacancy.github.io/jobs/senior-legal-counsel-crypto-finance-at-crypto-finance-8363/) | Crypto Finance | — |
 | [Senior Manager / Manager, Institutional Sales](https://web3vacancy.github.io/jobs/senior-manager-manager-institutional-sales-at-crypto-com-7511/) | Crypto.com | $100,000–$150,000 |
 | [Senior Marketing Associate - Social & Community](https://web3vacancy.github.io/jobs/senior-marketing-associate-social-and-community-at-stronghold-8186/) | Stronghold | $110,000–$130,000 |
 | [Senior Marketing Manager/Director, Payments & Merchant Growth](https://web3vacancy.github.io/jobs/senior-marketing-manager-director-payments-and-merchant-growth-at-coins-7542/) | Coins | $150,000–$250,000 |

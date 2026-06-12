@@ -6,9 +6,9 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>227 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>236 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (31)</h2>
+<h2>DeFi (33)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -26,12 +26,14 @@ permalink: /
 <li><a href="/jobs/growth-engineer-integration-engineer-at-injective-labs-7444/"><span>Growth Engineer / Integration Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/head-of-ecosystem-growth-at-arbitrum-foundation-7455/"><span>Head of Ecosystem Growth <span class="co">Arbitrum Foundation</span></span></a></li>
 <li><a href="/jobs/head-of-growth-at-vdex-7920/"><span>Head of Growth <span class="co">VDEX</span></span></a></li>
+<li><a href="/jobs/head-of-marketing-at-ether-fi-8364/"><span>Head of Marketing <span class="co">ether.fi</span></span></a></li>
 <li><a href="/jobs/lead-product-manager-tokenization-at-bullish-8081/"><span>Lead Product Manager, Tokenization <span class="co">Bullish</span></span><span class="pay">$245,000–$285,000</span></a></li>
 <li><a href="/jobs/member-of-technical-staff-smart-contract-at-galaxy-digital-8321/"><span>Member of Technical Staff - Smart Contract <span class="co">Galaxy Digital</span></span><span class="pay">$200,000–$250,000</span></a></li>
 <li><a href="/jobs/on-chain-quant-developer-at-bitmart-7646/"><span>On-chain Quant Developer <span class="co">BitMart</span></span></a></li>
 <li><a href="/jobs/paralegal-at-injective-labs-7443/"><span>Paralegal <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/protocol-engineer-at-injective-labs-7446/"><span>Protocol Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/qa-engineer-at-injective-labs-8195/"><span>QA Engineer <span class="co">Injective Labs</span></span></a></li>
+<li><a href="/jobs/senior-blockchain-engineer-at-useblocky-8368/"><span>Senior Blockchain Engineer <span class="co">UseBlocky</span></span><span class="pay">$250,000–$300,000</span></a></li>
 <li><a href="/jobs/senior-manager-defi-lending-growth-at-okx-7756/"><span>Senior Manager, DeFi Lending Growth <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/"><span>Senior People Operations Specialist / Affiliate Business Development Manager <span class="co">LI.FI / OKX</span></span><span class="pay">$60,000–$90,000</span></a></li>
 <li><a href="/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/"><span>Senior Solutions Architect, Banking and Capital Markets <span class="co">Chainlink Labs</span></span><span class="pay">$125,000–$273,000</span></a></li>
@@ -96,7 +98,7 @@ permalink: /
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 </ul>
-<h2>AI / ML (28)</h2>
+<h2>AI / ML (29)</h2>
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
@@ -124,6 +126,7 @@ permalink: /
 <li><a href="/jobs/staff-ml-risk-analytics-at-coinbase-7929/"><span>Staff ML Risk Analytics <span class="co">Coinbase</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-graphs-at-chainalysis-7752/"><span>Staff Software Engineer, Graphs <span class="co">Chainalysis</span></span></a></li>
 <li><a href="/jobs/strategic-partnerships-dealmaker-at-mysten-labs-7452/"><span>Strategic Partnerships Dealmaker <span class="co">Mysten Labs</span></span></a></li>
+<li><a href="/jobs/talent-pool-hut-8-at-hut-8-8359/"><span>Talent Pool - Hut 8 <span class="co">Hut 8</span></span></a></li>
 <li><a href="/jobs/technical-project-manager-at-galaxy-digital-7941/"><span>Technical Project Manager <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/"><span>VP, Senior Product Security Engineer <span class="co">Galaxy Digital</span></span></a></li>
 </ul>
@@ -132,7 +135,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (97)</h2>
+<h2>Payments (103)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -148,6 +151,7 @@ permalink: /
 <li><a href="/jobs/cto-crypto-mining-and-cto-crypto-wallet-platform-at-emcd-8013/"><span>CTO - Crypto Mining &amp; CTO - Crypto Wallet Platform <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/cybersecurity-engineer-at-localcoin-7549/"><span>Cybersecurity Engineer <span class="co">Localcoin</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/data-leader-at-coins-ph-7513/"><span>Data Leader <span class="co">Coins.ph</span></span></a></li>
+<li><a href="/jobs/deputy-chief-regulatory-officer-coinbase-derivatives-at-coinbase-8367/"><span>Deputy Chief Regulatory Officer, Coinbase Derivatives <span class="co">Coinbase</span></span><span class="pay">$179,520–$211,200</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-7978/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$137,000–$137,000</span></a></li>
 <li><a href="/jobs/derivatives-sales-associate-at-coinbase-8052/"><span>Derivatives Sales Associate <span class="co">Coinbase</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/director-of-finance-at-merkle-science-7438/"><span>Director of Finance <span class="co">Merkle Science</span></span></a></li>
@@ -162,8 +166,10 @@ permalink: /
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
 <li><a href="/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/"><span>Group Product Manager, Core Infra and Reliability <span class="co">Coinbase</span></span><span class="pay">$243,865–$286,900</span></a></li>
+<li><a href="/jobs/growth-lead-beacon-network-at-trm-8365/"><span>Growth Lead, Beacon Network <span class="co">TRM</span></span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>
+<li><a href="/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/"><span>Head of Payment Security &amp; Transaction Integrity <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
@@ -187,7 +193,9 @@ permalink: /
 <li><a href="/jobs/product-manager-director-vip-growth-and-operations-at-okx-8032/"><span>Product Manager / Director, VIP Growth &amp; Operations <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/product-manager-payments-at-polymarket-7745/"><span>Product Manager, Payments <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/"><span>Product Marketing Manager, Prediction Markets <span class="co">Coinbase</span></span><span class="pay">$140,080–$164,800</span></a></li>
+<li><a href="/jobs/product-operations-manager-at-binance-8362/"><span>Product Operations Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/public-relations-manager-at-coinmarketcap-7374/"><span>Public Relations Manager <span class="co">CoinMarketCap</span></span><span class="pay">$86,250–$138,000</span></a></li>
+<li><a href="/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/"><span>Quantitative Researcher - Prediction Markets, Quant Trading <span class="co">Crypto.com</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"><span>Regional Institutional Manager, Latin America <span class="co">Anchorage</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/regional-manager-customer-success-at-elliptic-7606/"><span>Regional Manager, Customer Success <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/sales-director-pensions-endowments-foundations-and-family-offices-at-bitgo-7733/"><span>Sales Director- Pensions, Endowments, Foundations, and Family Offices <span class="co">BitGo</span></span><span class="pay">$225,000–$275,000</span></a></li>
@@ -206,6 +214,7 @@ permalink: /
 <li><a href="/jobs/senior-events-marketing-manager-at-stellar-development-foundation-7442/"><span>Senior Events Marketing Manager <span class="co">Stellar Development Foundation</span></span><span class="pay">$130,000–$200,000</span></a></li>
 <li><a href="/jobs/senior-growth-manager-sea-at-okx-8034/"><span>Senior Growth Manager, SEA <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-java-developer-exchange-trading-platform-at-crypto-com-8158/"><span>Senior Java Developer (Exchange/Trading Platform) <span class="co">Crypto.com</span></span><span class="pay">$120,000–$150,000</span></a></li>
+<li><a href="/jobs/senior-legal-counsel-crypto-finance-at-crypto-finance-8363/"><span>Senior Legal Counsel - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/senior-manager-manager-institutional-sales-at-crypto-com-7511/"><span>Senior Manager / Manager, Institutional Sales <span class="co">Crypto.com</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/senior-marketing-associate-social-and-community-at-stronghold-8186/"><span>Senior Marketing Associate - Social &amp; Community <span class="co">Stronghold</span></span><span class="pay">$110,000–$130,000</span></a></li>
 <li><a href="/jobs/senior-marketing-manager-director-payments-and-merchant-growth-at-coins-7542/"><span>Senior Marketing Manager/Director, Payments &amp; Merchant Growth <span class="co">Coins</span></span><span class="pay">$150,000–$250,000</span></a></li>

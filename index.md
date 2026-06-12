@@ -103,8 +103,8 @@ permalink: /
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
 <li><a href="/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/"><span>Associate Counsel, Data Centers <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/blockchain-security-lead-at-galaxy-digital-8322/"><span>Blockchain Security Lead <span class="co">Galaxy Digital</span></span></a></li>
-<li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7421/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$75,000–$125,000</span></a></li>
+<li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7554/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/data-engineer-at-elliptic-8067/"><span>Data Engineer <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/data-scientist-search-and-recommendation-at-binance-7977/"><span>Data Scientist (Search &amp; Recommendation) <span class="co">Binance</span></span></a></li>

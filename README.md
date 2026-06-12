@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-234 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+236 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 33
 
@@ -42,7 +42,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 50
+### Infrastructure · 51
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -79,6 +79,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Developer Relations, Canton](https://web3vacancy.github.io/jobs/senior-developer-relations-canton-at-openzeppelin-7750/) | OpenZeppelin | — |
 | [Senior Java Engineer](https://web3vacancy.github.io/jobs/senior-java-engineer-at-coinmarketcap-7791/) | CoinMarketCap | $97,750–$149,500 |
 | [Senior Marketing Manager](https://web3vacancy.github.io/jobs/senior-marketing-manager-at-binance-7712/) | Binance | — |
+| [Senior Product Owner — Crypto Wallet](https://web3vacancy.github.io/jobs/senior-product-owner-crypto-wallet-at-tangem-8412/) | Tangem | $126,500–$195,500 |
 | [Senior Quality Assurance Automation Engineer](https://web3vacancy.github.io/jobs/senior-quality-assurance-automation-engineer-at-crypto-7336/) | Crypto | $75,000–$125,000 |
 | [Senior Red Team Operator](https://web3vacancy.github.io/jobs/senior-red-team-operator-at-figment-8065/) | Figment | $165,000–$180,000 |
 | [Senior Software Engineer - Coinbase](https://web3vacancy.github.io/jobs/senior-software-engineer-coinbase-at-coinbase-8058/) | Coinbase | — |
@@ -137,7 +138,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 104
+### Payments · 105
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -227,6 +228,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Product Manager, CX Automation](https://web3vacancy.github.io/jobs/senior-product-manager-cx-automation-at-coinbase-8316/) | Coinbase | $207,485–$244,100 |
 | [Senior Product Manager, Trust Company](https://web3vacancy.github.io/jobs/senior-product-manager-trust-company-at-fireblocks-7432/) | Fireblocks | $154,000–$203,000 |
 | [Senior Quality Assurance Automation Engineer](https://web3vacancy.github.io/jobs/senior-quality-assurance-automation-engineer-at-crypto-com-7902/) | Crypto.com | — |
+| [Senior React Native Developer](https://web3vacancy.github.io/jobs/senior-react-native-developer-at-utorg-8416/) | Utorg | — |
 | [Senior Staff Software Engineer, Payments](https://web3vacancy.github.io/jobs/senior-staff-software-engineer-payments-at-coinbase-7944/) | Coinbase | $253,895–$298,700 |
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-ether-fi-7758/) | ether.fi | — |
 | [Senior VIP Relationship Manager](https://web3vacancy.github.io/jobs/senior-vip-relationship-manager-at-kraken-7514/) | Kraken | — |

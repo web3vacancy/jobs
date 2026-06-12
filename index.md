@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>234 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>236 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (33)</h2>
 <ul class="jobs">
@@ -44,7 +44,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (50)</h2>
+<h2>Infrastructure (51)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -79,6 +79,7 @@ permalink: /
 <li><a href="/jobs/senior-developer-relations-canton-at-openzeppelin-7750/"><span>Senior Developer Relations, Canton <span class="co">OpenZeppelin</span></span></a></li>
 <li><a href="/jobs/senior-java-engineer-at-coinmarketcap-7791/"><span>Senior Java Engineer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
 <li><a href="/jobs/senior-marketing-manager-at-binance-7712/"><span>Senior Marketing Manager <span class="co">Binance</span></span></a></li>
+<li><a href="/jobs/senior-product-owner-crypto-wallet-at-tangem-8412/"><span>Senior Product Owner — Crypto Wallet <span class="co">Tangem</span></span><span class="pay">$126,500–$195,500</span></a></li>
 <li><a href="/jobs/senior-quality-assurance-automation-engineer-at-crypto-7336/"><span>Senior Quality Assurance Automation Engineer <span class="co">Crypto</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/senior-red-team-operator-at-figment-8065/"><span>Senior Red Team Operator <span class="co">Figment</span></span><span class="pay">$165,000–$180,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-coinbase-at-coinbase-8058/"><span>Senior Software Engineer - Coinbase <span class="co">Coinbase</span></span></a></li>
@@ -133,7 +134,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (104)</h2>
+<h2>Payments (105)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -221,6 +222,7 @@ permalink: /
 <li><a href="/jobs/senior-product-manager-cx-automation-at-coinbase-8316/"><span>Senior Product Manager, CX Automation <span class="co">Coinbase</span></span><span class="pay">$207,485–$244,100</span></a></li>
 <li><a href="/jobs/senior-product-manager-trust-company-at-fireblocks-7432/"><span>Senior Product Manager, Trust Company <span class="co">Fireblocks</span></span><span class="pay">$154,000–$203,000</span></a></li>
 <li><a href="/jobs/senior-quality-assurance-automation-engineer-at-crypto-com-7902/"><span>Senior Quality Assurance Automation Engineer <span class="co">Crypto.com</span></span></a></li>
+<li><a href="/jobs/senior-react-native-developer-at-utorg-8416/"><span>Senior React Native Developer <span class="co">Utorg</span></span></a></li>
 <li><a href="/jobs/senior-staff-software-engineer-payments-at-coinbase-7944/"><span>Senior Staff Software Engineer, Payments <span class="co">Coinbase</span></span><span class="pay">$253,895–$298,700</span></a></li>
 <li><a href="/jobs/senior-technical-product-manager-at-ether-fi-7758/"><span>Senior Technical Product Manager <span class="co">ether.fi</span></span></a></li>
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>

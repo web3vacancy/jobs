@@ -92,8 +92,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Social Media Manager - Base](https://web3vacancy.github.io/jobs/social-media-manager-base-at-base-8040/) | Base | — |
 | [Software Development Engineer in Test](https://web3vacancy.github.io/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/) | Cardano Foundation | — |
 | [Software Engineer](https://web3vacancy.github.io/jobs/software-engineer-at-arkham-7453/) | Arkham | — |
-| [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7836/) | Fireblocks | — |
+| [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7936/) | Fireblocks | $60,000–$100,000 |
 | [Spontaneous application](https://web3vacancy.github.io/jobs/spontaneous-application-at-monetha-8504/) | Monetha | $28,500–$52,250 |
 | [Staff DevOps Engineer - Alchemy](https://web3vacancy.github.io/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/) | Alchemy | — |

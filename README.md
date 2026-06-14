@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-237 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+238 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 34
 
@@ -43,7 +43,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 53
+### Infrastructure · 54
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -80,6 +80,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Developer Relations, Canton](https://web3vacancy.github.io/jobs/senior-developer-relations-canton-at-openzeppelin-7750/) | OpenZeppelin | — |
 | [Senior Java Engineer](https://web3vacancy.github.io/jobs/senior-java-engineer-at-coinmarketcap-7791/) | CoinMarketCap | $97,750–$149,500 |
 | [Senior Marketing Manager](https://web3vacancy.github.io/jobs/senior-marketing-manager-at-binance-7712/) | Binance | — |
+| [Senior Product Engineer](https://web3vacancy.github.io/jobs/senior-product-engineer-at-wormhole-labs-8508/) | Wormhole Labs | $87,000–$115,000 |
 | [Senior Product Owner — Crypto Wallet](https://web3vacancy.github.io/jobs/senior-product-owner-crypto-wallet-at-tangem-8412/) | Tangem | $126,500–$195,500 |
 | [Senior Quantitative Developer](https://web3vacancy.github.io/jobs/senior-quantitative-developer-at-polymarket-8433/) | Polymarket | — |
 | [Senior Red Team Operator](https://web3vacancy.github.io/jobs/senior-red-team-operator-at-figment-8065/) | Figment | $165,000–$180,000 |

@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>237 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>238 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (34)</h2>
 <ul class="jobs">
@@ -45,7 +45,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (53)</h2>
+<h2>Infrastructure (54)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/analytics-engineer-at-coinbase-8427/"><span>Analytics Engineer <span class="co">Coinbase</span></span><span class="pay">$90,000–$150,000</span></a></li>
@@ -80,6 +80,7 @@ permalink: /
 <li><a href="/jobs/senior-developer-relations-canton-at-openzeppelin-7750/"><span>Senior Developer Relations, Canton <span class="co">OpenZeppelin</span></span></a></li>
 <li><a href="/jobs/senior-java-engineer-at-coinmarketcap-7791/"><span>Senior Java Engineer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
 <li><a href="/jobs/senior-marketing-manager-at-binance-7712/"><span>Senior Marketing Manager <span class="co">Binance</span></span></a></li>
+<li><a href="/jobs/senior-product-engineer-at-wormhole-labs-8508/"><span>Senior Product Engineer <span class="co">Wormhole Labs</span></span><span class="pay">$87,000–$115,000</span></a></li>
 <li><a href="/jobs/senior-product-owner-crypto-wallet-at-tangem-8412/"><span>Senior Product Owner — Crypto Wallet <span class="co">Tangem</span></span><span class="pay">$126,500–$195,500</span></a></li>
 <li><a href="/jobs/senior-quantitative-developer-at-polymarket-8433/"><span>Senior Quantitative Developer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/senior-red-team-operator-at-figment-8065/"><span>Senior Red Team Operator <span class="co">Figment</span></span><span class="pay">$165,000–$180,000</span></a></li>
